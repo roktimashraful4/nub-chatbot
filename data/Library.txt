@@ -1,0 +1,112 @@
+Library
+
+Gate Way to Knowledge
+ 
+Northern University Library (NUB), established in 2002, is the heart of the university. The University Library offers its users a full range of information and enquiry services with the help of state-of-state techniques and technologies. The library’s mission is to enable and enrich the teaching, learning and research endeavors of the university by delivering flexible access to relevant information resources and providing quality services and facilities.
+NUB Library-Services is managed with an Open Source Integrated Library System Software. It is enriched with various modules including ‘Web based library database search’, ‘Navigation from distant work-stations’, ‘Book reservation and renewal through user interface of Library Web’,  ‘Login facility to know status of patrons on their own’, ‘Auto email alert services’. Library resources are systematically arranged by Dewey Decimal Classification Scheme. Library team is dedicated to evolve new technologies and enchanting ways of services to provide patrons.
+
+Library collection is enriched with various information resources on Business, Management, Marketing, Finance, Economics, Computer Science and Engineering, Electrical and Electronic Engineering, Electronic and Communication Engineering, Textile Engineering, English Language and Literature, Sociology, Pharmacy, Public Health, law etc.
+
+Printed Resources :  About 60000 books of 5506 Titles, 534 audio visual materials, 4,500 theses and project reports among which 1,553 are Master’s theses, 927 printed journals.
+
+Library website have been augmented with useful links like JSTOR, Research4life (HINARI, AGORA, OARE, ARDI), Regional Journals Online etc. Through these online databases library patrons were succeed to enter thousands of free full text e-resources i.e. articles, book chapters, books etc.
+
+E – Journals     :  More than 25,793 full text e-journals through Research4life.
+E – Books         :  More than 30,000 full text e-books through Research4life, NUB E-Repository.
+All libraries maintain different service areas to ensure user friendly environment, like Silent Study Area, Group Study Area, Teachers’ Corner, Newspaper Corner, Journal Corner, Reference Corner etc. The Wi-Fi internet connection of the library building helps the library users to access online resources easily.
+
+Mission & Vision
+Mission: The library mission is to provide comprehensive resources and services in support of the research, learning and research communities using latest technological developments.
+
+Library Objectives
+To support the mission of the University for emerging as a premier academic university, embracing traditional values of higher education as well as the knowledge required for the global community in the 21st century.
+To identify, acquire, organize, store and provide on-demand access to the available intellectual and research products of scholars and support teaching, learning research and creative endeavors.
+To provide increasing access to digital collections while continuing to build and improve access to collections in all formats to meet the research and teaching needs of the university.
+To foster information literacy by working with the NUB community to think critically, create new knowledge, and be life-long learners.
+
+
+Library Services
+Reading room service: NUB Library, from each campus maintains two reading rooms one is silent study area and another is group study area whereas the total seating capacity is about 200.
+Lending service:
+The faculty members may borrow maximum 3 (three) books per course or maximum 10(ten) books for one semester. Any NUB staffs members may borrow maximum 2 ( two) books for 15 days
+The loan period for borrowed items may be extended for next 15 (fifteen) days, if there is no outstanding request for that items by any other users.
+Fines are assessed to encourage the prompt return of materials. Fine will be imposed @ Tk. 50.00 (Taka fifty only) for per book for each day, and after 15 days the fine will be raised @ Tk. 10.00 (Taka ten only) per book for each day.
+If any borrower lose any library materials s/he must return the same copy of the material(s) within 15 (fifteen) days. I addition s/he must pay Tk. 500.00 (Five hundred only) as penalty/services charge.
+Reference Service: Reference materials are not issued. Students may borrow books which marked R (Reference) for few hours through yellow cards.
+Information service: Information retrieval services are available for all clients.
+Internet service: Apart from the NUB computer lab, the library has 6 (six) computers inside the library to provide internet services through WIFI & WIMAX technology. NUB has registered HINARI (Health Internet work Access to Research Initiative) database, using HINARI more than 4,000 full text online journals can be accessed. Access to any other international free full text journals /databases and E-Resources, can be made through the internet, in consultation Head of the library.
+News clipping service: News clipping services on important subject are providing on regular basis for library users. In addition There is a newspaper corner in library where 3 (three) leading daily Newspaper is kept for students. Library users may get back issues of newspaper up to the last 01 (one) year.
+CD-ROM & Audiovisual service:Library users may issue or copy CD-ROM and audio visual materials.
+
+Collection
+The library collection is growing rapidly. At present, the total number of library books, journals and audio visual materials are 519 and 1667 and 1946 respectively. The Collection of NUB offers academic programs on Bachelor of Arts in Bangla (Hons), Master of Arts in Bangla (MBA), Bachelor of Business Administration (BBA), Masters of Business Administration (MBA), Master of Bank Management (MBM), Computer Science & Engineering (CSE), Electrical and Electronic Engineering (EEE), Textile Engineering (TE), English Languages and Literature (ELL), Master of Arts in English (MAE), Bachelor of Laws (LLB), Master of Laws (LLM), Bachelor of Pharmacy (B.Pharm) & Master of Public Health (MPH) etc.
+The Library is enriched with available with valuable reference materials such as atlases, dictionaries, encyclopedias, annual reports and publications, survey reports, census reports, country reports, statistical yearbooks and other publications. In addition NUB library subscribes to leading online journals.
+NUB library has access to online collection resources from IATUL (International Association of Scientific & Technological University Libraries) & physical resources of British Council, Dhaka.
+
+General rules for library users
+The library users are required to follow the following rules and guidelines:
+i)  Silence must be observed in all silent study areas. Where group study space is provided, conversation must be kept at as low a level as possible.
+ii) Mobile phones must be switched off or at least set to silent mode before entering the library.
+iii) Smoking, eating and drinking are strictly prohibited in all areas of the library.
+iv)  When you leave the library make sure that all the books or other library materials that you are carrying have been properly issued to you. If you are found in possession of material that has not been issued to you, this will be treated as a serious breach of the code of conduct.
+v) Personal possessions are not allowed inside the library, except exercise book (khata), pen, geometry box and calculator.
+vi) Library baggage counter is for keeping your personal possessions, but you must not keep money or other   valuables there, as the library authority does not take the responsibility for loss or damage of your belongings.
+vii)  We ask you to treat Library Staff and fellow users with respect and courtesy. The university will not tolerate antisocial behavior.
+viii) To ensure user's safety and security we operate CCTV cameras and engage staff to undertake routine patrols.
+
+Membership
+i) Students, Faculty and staff members of NUB are eligible to be a member.
+ii) Library membership Fee Tk. 200 (included with Admission Fee)
+iii) Borrower cards (both green and yellow) are not transferable.
+iv) Borrower is responsible for all materials charged/issued against him/her cards.
+v) Stolen or lost card should be reported as soon as possible to the library circulation desk.
+vi) He/she must pay Tk.100.00 (one hundred only) as penalty charge if any borrower lost yellow card.
+
+
+Borrowing System
+The NUB library is organized and maintained mainly to serve the students, faculty, and staff members of NUB. To avail the library facilities, the students must register themselves as library member by paying Tk. 200.00 as membership fee (included with admission fee). Faculty and staff members will also register themselves (without paying membership fee) to borrow library materials. Library members are entitled to borrow books and other reading materials from the library for their own use. Library materials cannot be borrowed on behalf of others.
+
+Loan Privileges Suspension
+If items are not returned within 30 days from the due date.
+If any library user found outside the library in possession of on-issued library materials.
+
+Lost or Damaged items
+If any borrower lose any library resource, s/he must return the same or pay the current priceof the item within 15 (fifteen) days.
+In addition s/he must pay Tk. 500.00 (five hundred only) as penalty/service charge.
+
+Library Fines
+Late fines are imposed per day @ BDT 50.00 (Fifty Taka) for each item, if student fails to return the book(s) within due date.
+Reference books can only be borrowed for the day against the yellow card. Late fines for each reference books are charged BDT 100.00 (One Hundred Taka) per day.
+More details have been given in the Library Brochure.
+
+Timing
+Library remain open seven days a week from 9.00 am – 5.00 pm
+
+Committee
+The library is advised by a committee consisting of representative from different faculties and departments of the university. The vice-chancellor of Northern University Bangladesh acts as the Chairperson of the Library Committee. On the other hand, the Librarian of NUB Library acts as the Member-Secretary of the Committee.
+Responsibilities of the Committee are to advise the Library personnel of NUB Library in formulating library policies, procuring library materials, improving library and information services, operational matters, and so on.
+
+libraries staffs
+#	Name	Designation
+1	Ms. Shahnaz Parvin	Senior Assistant Librarian
+2	Md. Nasir Uddin	Library Officer
+3	Ferdowsi Khan Akhi	Junior Library Officer
+
+
+Download
+Book Requisition Form - Teacher
+-- link : https://nub.ac.bd/assets/images//library/Book-Requisition-Form.pdf
+
+Book Requisition Form - Administrative Departments
+-- link : https://nub.ac.bd/assets/images//library/Book%20Requisition%20Form%20-%20NUB%20Administrative%20Department.pdf
+
+Library Brochure
+-- link : https://nub.ac.bd/assets/images//library/Library%20brochure%20-%20Updated%20-%20May%202012.pdf
+
+
+Location
+111/2 Kawlar Jame Mosjid Road, Ashkona, (Near Hajj Camp) Dakshinkhan, Dhaka-1230
+
+Contact Us
+Library and Information Department (LID)
+Tel: 22227718-20, Ext-504/ 517

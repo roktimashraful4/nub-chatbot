@@ -1,0 +1,53 @@
+-Faculty Member info 
+--Department of Civil Engineering
+------------------------------------------------------------------------------
+Name: Md. Ibrahim Bhuyia
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Ibrahim%20Bhuyia.jpg
+Designation: Lecturer
+Department: Civil Engineering
+Academic Qualification: B. Sc. in Civil Engineering : KUET
+Mobile: 01521724909
+E-mail: mdibrahim.bhuyia@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Arafat Bin Ansar
+Photo URL: https://nub.ac.bd/assets/images/pims/Arafat%20Bin%20Ansar.jpg
+Designation: Lecturer
+Department: Civil Engineering
+Academic Qualification: B. Sc. in Civil Engineering : KUET
+Mobile: 01727439189
+E-mail: arafat.ansar@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Tawhidul Islam
+Photo URL: https://nub.ac.bd/assets/images/pims/Tawhidul%20Islam.jpg
+Designation: Lecturer (Physics)
+Department: Civil Engineering
+Academic Qualification: M.Sc. in Physics: CU, B.Sc. in Physics: CU
+Mobile: 01987314128
+E-mail: tawhidul.islam@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Nazmul Hudha
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Nazmul%20Hudha.jpg
+Designation: Lecturer (Mathematics)
+Department: Civil Engineering
+Academic Qualification: M.Sc. in Mathematics: BUET, B. Sc. In Mathematics :KU
+Mobile: 01688088456
+E-mail: nazmul.hudha@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Tanjina Mannan Risha
+Photo URL: https://nub.ac.bd/assets/images/pims/Tanjina%20Mannan%20Risha.jpg
+Designation: Lecturer
+Department: Civil Engineering
+Academic Qualification: B. Sc. Civil Engineering: KUET
+Mobile: 01758133881
+E-mail: tanjina.risha@gmail.com
+
+--------------------------------------------------
+

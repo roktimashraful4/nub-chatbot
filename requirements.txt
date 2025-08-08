@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+langchain
+faiss-cpu
+tiktoken
+python-dotenv
+pydantic

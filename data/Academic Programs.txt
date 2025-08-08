@@ -1,0 +1,25 @@
+-Academic Programs
+NUB has been expanding its academic programs at the Bachelors and Masters levels under different faculties and departments . At present, the university’s academic programs are as follows :
+
+-Faculty of Science & Engineering
+-- Computer Science & Engineering
+-- Electrical and Electronic Engineering
+-- Textile Engineering
+-- Mechanical Engineering
+-- Civil Engineering
+
+- Faculty of Business
+-- Business Administration
+
+- Faculty of Humanities & Social Science
+-- Bangla
+-- English Language & Literature
+-- General Education
+-- Governance and Public Policy
+
+- Faculty of Law
+-- Law
+
+- Faculty of Health Science
+-- Bachelor of Pharmacy
+-- Public Health

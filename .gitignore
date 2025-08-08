@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.sqlite3
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Cache / build files
+.mypy_cache/
+.pytest_cache/
+.cache/
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# FAISS vectorstore
+# vectorstore/
+# *.faiss
+# *.pkl
+
+# Node/npm (if you later add frontend)
+node_modules/
+package-lock.json
+yarn.lock

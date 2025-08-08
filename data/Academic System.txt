@@ -1,0 +1,43 @@
+- Academic System
+-- The Credit Hour System
+The Credit Hour System is followed in the academic programs of NUB. Courses may be of different credit hours. Each credit hour implies 14 classes hours per semester. Thus a 3 credit hour course requires 42 class hours. NUB also introduces open credit hour system in its academic system. The open credit hour system provides flexibility to the students to complete required number of credit hours for a program, in which the number of credit hours in different semesters depend on a student choice and ability.
+
+-- The Evaluation System
+The evaluation system practiced at NUB is based on 100 marks for each course. The process of evaluation is based on the following activities :
+#	Evaluation Type	Marks	Examination Type
+01	Continuous Assessment	30 Marks	Class tests, assignments, quizzes, case studies, class presentation & class participation.
+02	Mid-term Examination	30 Marks	Held in the middle of the semester
+03	Final Examination	40 Marks	Held at the end of the semester
+TOTAL	100
+
+-- Grading
+Numerical Grade	Letter Grade	GP
+80% and above	A+	(A plus)	4.0
+75% to less than 80%	A	(A regular)	3.75
+70% to less than 75%	A-	(A minus)	3.50
+65% to less than 70%	B+	(B plus)	3.25
+60% to less than 65%	B	(B regular)	3.00
+55% to less than 60%	B-	(B minus)	2.75
+50% to less than 55%	C+	(C plus)	2.50
+45% to less than 50%	C	(C regular)	2.25
+40% to less than 45%	D	D	2.0
+Less than 40%	F	F	0.0
+
+Besides above mentioned grades, the NUB maintains some other grades which are as follows:
+“I” grade indicates incomplete course.
+“W” indicates course withdrawal.
+“X” indicates that the student found absent in the final examination without formal permission.
+“Y” indicates that the student is caught red-handed due to adopted unfair means in the examinations.
+
+-- Grading System
+The Grade Point Average (GPA) is computed as ‘grade point earned’ dividing by the ‘number of credit hours attempted’ in a particular semester. For example: a student taking 4 courses of 3 credits each and obtaining letter grades A+, B, C & F will have the following GPA:
+
+Course Code	Cr.Hour	Letter Grade	GP	TGP
+ENG 1103	3	A+	4.00	12.00
+ENG 1104	3	B	3.00	9.00
+ENG 1105	3	C	2.25	6.75
+ENG 1106	3	F	0.00	0.00
+TCH = 12	TGP=27.75
+
+-- Cumulative Grade Point Average (CGPA)
+The Cumulative Grade Point Average (CGPA) is computed by dividing, the total grade points earned by the total number of credit hours earned up to that point of time.

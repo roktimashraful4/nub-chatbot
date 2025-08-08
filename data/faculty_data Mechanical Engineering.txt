@@ -1,0 +1,73 @@
+-Faculty Member info 
+--Department of Mechanical Engineering
+
+------------------------------------------------------------------------------------------
+Name: Engr. Dr. Mohammad Ali Basunia
+Photo URL: https://nub.ac.bd/assets/images/pims/Mohammad%20Ali%20Basunia.jpg
+Designation: Professor & Head, Dept. of Mechanical Engr.
+Department: Mechanical Engineering
+Academic Qualification: Post Ph.D. Ehime University, Japan, Ph.D. Ehime University, Japan, Master of Engineering : Asian Institute of Technology (AIT), Bangkok, Thailand
+E-mail: mdbasunia@nub.ac.bd
+
+--------------------------------------------------
+
+Name: S.m. Naqib Ul Islam
+Photo URL: https://nub.ac.bd/assets/images/pims/S.M.Naqib-Ul-Islam.JPG
+Designation: Lecturer
+Department: Mechanical Engineering
+Academic Qualification: B.Sc in Mechanical Engineering :IUT
+Mobile: 01876420743
+E-mail: naqib.islam@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Sudipta Debnath
+Photo URL: https://nub.ac.bd/assets/images/pims/Sudipta%20Debnath.jpg
+Designation: Lecturer (Study Leave)
+Department: Mechanical Engineering
+Academic Qualification: Ph.D. program ongoing at University of Houston, USA B.Sc. Mechanical Engineering: BUET
+Mobile: 01827535047
+E-mail: sudipta.debnath@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Rakibul Hasan Rakib
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Rakibul%20Hasan%20Rakib.jpg
+Designation: Lecturer (Chemistry)
+Department: Mechanical Engineering
+Academic Qualification: M.Sc. in Chemistry: KU B.Sc. in Chemistry: KU
+Mobile: 01701306717
+E-mail: rakibul.chem@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Jahirul Islam
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Jahirul%20Islam.jpg
+Designation: Lecturer
+Department: Mechanical Engineering
+Academic Qualification: B.Sc. in Mechanical Engineering: RUET
+Mobile: 01781234044
+E-mail: jahirul@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Samrat Hossen Akib
+Photo URL: https://nub.ac.bd/assets/images/pims/Samrat%20Hossen%20Akib.jpg
+Designation: Lecturer
+Department: Mechanical Engineering
+Academic Qualification: B.Sc. in Mechanical Engineering: CUET
+Mobile: 01916130046
+E-mail: akibhossen15@gmail.com
+
+--------------------------------------------------
+
+Name: Md. Al Imran
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20AL-Imran.jpg
+Designation: Lecturer (Mathematics)
+Department: Mechanical Engineering
+Academic Qualification: M.Sc. in Mathematics: RU B. Sc. In Mathematics: RU
+Mobile: 01756846856
+E-mail: zmimran001@gmail.com
+
+--------------------------------------------------
+

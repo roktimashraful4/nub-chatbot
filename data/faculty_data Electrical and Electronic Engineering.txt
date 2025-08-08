@@ -1,0 +1,627 @@
+-Faculty Member info 
+-- Department of Electrical and Electronic Engineering
+-----------------------------------------------------
+Name: Dr. Shahjahan Mahmood
+Photo URL: https://nub.ac.bd/assets/images/pims/Advisor%20EEE.jpg
+Designation: Honorary Advisor, Department of EEE
+Department: Electrical and Electronic Engineering
+
+--------------------------------------------------
+
+Name: Prof. Dr. Engr. Md. Mostafizur Rahman
+Photo URL: https://nub.ac.bd/assets/images/pims/Dr.%20Md.%20Mostafizur%20Rahman.jpeg
+Designation: Dean, Faculty of Science and Engineering
+Department: Electrical and Electronic Engineering
+Academic Qualification: Ph. D (EECE)  : Akita University, Japan, 2011 M.Sc. (EEE): 1 st class, KUET, Khulna, 2005 B.Sc (EEE) : 1 st class, BIT, Rajshahi, 1992
+Publications: Bengali Article: https://bonikbarta.net/home/news_description/274815 [1] Md. Mostafizur Rahman, Kazutaka Mitobe, Masafumi Suzuki, “Dexterous Finger Movement Analysis Using Electromagnetic Motion Capture System” LAP LAMBERT Academic Publishing, Editor-Dragos Magu, Saarbrucken, Germany, ISBN-978-3-8454 -2810-9 (December 7, 2011), P. ID-26072 [2] Md. Mostafizur Rahman at el. “My Japan and My Akita”, Sanbunsha Publisher’s, editor Hiromi Tsuboi, ISBN 978-4-903589-03-9 (2010) [For Japanese] Journals [28] M. S. Rana T.A. Fahim, and M. M. Rahman, “Microstrip patch Antenna Design, Simulation, and Analysis for S-band Wireless Applications Operating at 3.5 GHz,” Bulletin of Electrical Engineering and Informatics (BEEI), vol. 12, issue-6, Scopus-Q3, pp.3428-3437, December, 2023, DOI:10.11591/eei.v12i6.5626 [27] Md. Sohel Rana, T Ahmed Fahim, S B Rana , Russel Mahbub, Md. Mostafizur Rahman,"Design, simulation, and analysis of microstrip patch antenna for wireless applications operating at 3.6 GHz", TELKOMNIKA Telecommunication Computing Electronics and Control, vol. 21,issue-5, Scopus-Q3, pp.957-967, August, 2023, DOI: 10.12928/TELKOMNIKA.v21i5.24813[PDF] [26] Md. Sohel Rana, B K Sen, Md. Tanjil-Al Mamun, Md. S Mahmud, Md. Mostafizur Rahman, "A 2.45 GHz microstrip patch antenna design, simulation, and anlaysis for wireless applications", Bulletin of Electrical Engineering and Informatics, Intelektual Pustaka, vol. 12, issue 4, Scopus-Q3 pp. 2173-2184, 2023 ,DOI: 10.11591/eei.v12i4.4770, ISSN: 2302-9285 [PDF] [25] Md. Sohel Rana, Sk I Islam, S Al Mamun, L K Mondal, Md. T Ahmed, Md. Mostafizur Rahman, "An SBand Microstrip Patch Antenna Design and Simulation for Wireless Communication Systems", Indonesian MEMBERSHIP OF PROFESSIONAL SOCIETIES FIELD OF INTEREST PUBLICATIONS (Book) Post Graduate Student Supervision and External Member Curriculum Vitae of Dr. Md. Mostafizur Rahman Page 5 of 12 Journal of Electrical Engineering and Informatics (IJEEI), Scopus-Q3, vol. 10, issue 4, pp. 943-952, December, 2022 , DOI: 10.52549/ijeei.v10i4.4141 , ISSN: 2089-3272 [24] Md. Sohel Rana, Shuvashis Biswas Rana , Sk Ikramul Islam, Laltu Kumar Mondal , Sharif AL Mamun, Md. Mostafizur Rahman, "Design and Analysis of Multiband Microstirp Patch Antenna for Wireless Communication Systems", The Seybold Report, Vol-17, Issu-11, Scopus-Q3, pp. 953-962, November, 19, 2022, DOI 10.5281/zenodo.7337306, ISSN: 1533-9211 [23] Md. Sohel Rana, Md. Mostafizur Rahman, " Microstrip patch antennas for various applications: a review", Indonesian Journal of Electrical Engineering and Computer Science, Scopus-Q3, Intelektual Pustaka, vol. 29, No. 3, pp. 1511-1519, March, 2023, DOI: 10.11591/ijeecs.v29.i3.pp1511-1519, ISSN: 2502-4752 [22] Md. Sohel Rana, Md. Mostafizur Rahman, "Design and analysis of microstrip patch antenna for 5G wireless communication systems", Bulletin of Electrical Engineering and Informatics, Scopus-Q3, Intelektual Pustaka, vol. 11, issue 6, pp. 3329-3337, August, 2022, https://doi.org/10.11591/eei.v11i6.3955 [21] Mousume Samad, Md. Mostafizur Rahman, S M Shamim “Design of Miniaturized Implantable PIFA with DGS for the Investigation of Uterus Fibroids” European Scientific Journal (ESJ), Vol. 17, No. 37, p211-224, October 31, 2021, Print Issn : 1857-77881, Online Issn:1857-7431, https:// doi.org/10.19044/esj.2021.v17n37p211, https://eujournal.org/index.php/esj/article/view/14849 [20] Sabuj Sarker, Md. Mostafizur Rahman “A Novel Method for Optimizing Power efficiency of a Solar Photovoltaic Device” Transactions on Electrical and Electronic Materials (Springer), Vol. 21, N0. 4, p377-383, February 23, 2020, Publisher : Springer Berlin Heidelberg, Germany, IF: 1.581, Print Issn : 1229-7607, Online Issn: 2092-7592, http://link.springer.com/article/10.1007/s42341-020-00183-2 https://doi.org/10.1007/s42341-020-00183-2 [19] Atik Mahabub, Munna Mia, Md. Mostafizur Rahman “Design and Analysis of Wideband Pattern Reconfigurable Antenna for 4G WiMAX System at S-Band” Far East Journal of Electronics and Communications,Vol.19, Issue.-2, p191-202, (February 2019) , Pushpa Publishing House, Prayagraj, India, http://dx.doi.org/10.17654/EC019020191 , www.pphmj.com, IF: 1.14, ISSN: 0973-7006 [18] Shuvashis Saha, Monir Hossen, Md. Mostafizur Rahman, Noboru Yoshimura “Performance Analysis of Multi Thread Polling Based DBA Algorithms for Long-Reach Pons” International Journal of Innovative Research in Electronics and Communications (IJIREC), Vol. 5, Issue.- 3, p1-12, September, 2018, DOI: http://dx.doi.org/10.20431/2349-4050.0503001 [17] Atik Mahabub, Md. Mostafizur Rahman and Hosne Ara Runa “ Design of a Triple Slot Circular Patch Antenna for Nano Optics” International Journal of Microwave and Optical Technology (IJMOT), Vol. 13, N0.- 5, p470-477, ISSN :1553-0396, IJMOT-2018-8-1645, September, 2018, A Publication of the International Academy of Microwave and Optical Technology (IAMOT), USA. http://ijmot.com/VOL13NO5.ASPX [16] Sabuj Sarker , Saikat Adhikary, Md. Mostafizur Rahman “Optimizing channel capacity in a MIMO–PSK wireless rayleigh fading channel” Microsystem Technologies (Springer), Vol. 23, p1-7, July 23, 2018, Publisher : Springer Berlin Heidelberg, Germany, IF: 1.581, Print Issn : 0946-7076, Online Issn :1432- 1858, http://link.springer.com/article/10.1007/s00542-018-4041-9 https://doi.org/10.1007/s00542-018- 4041-9 [15] Atik Mahabub , Md. Mostafizur Rahman, Md. Al-Amin, Md. Sayedur Rahman , Md. Masud Rana “Design of a Multiband Patch Antenna for 5G Communication Systems” Open Journal of Antennas and Propagation (OJAP), Vol. 6, Issue 1, p1-14, March 30, 2018 (Scientific Research Publishing), http://www.scirp.org/journal/ojapr/ https://doi.org/10.4236/ojapr.2018.61001 [14] Imran Khan and Md. Mostafizur Rahman “Wavelength tunable TFBG based microwave sensor using surface plasmon resonance” The Egyptian Journal of Remote Sensing and Space Sciences (2016)19, 1-6 (ELSEVIER), Vol. 19, Issue-1, p1-6, June- 2016, CS-7.3, IF-6.39 http://dx.doi.org/10.1016/j.ejrs.2015.11.002, https://www.researchgate.net/publication/289380214 [13] Imran Khan and Md. Mostafizur Rahman “Polarization analysis of antireflection coating for SOS material system” ‘Optics’ Science Publishing Group (SciencePG), Vol. 2, No.-3, p42-46, doi:10.11648/j.optics.20130203.11, June, 2013 [12] Md. Masud Rana, Md. Jobayer Hossain, Ratan Kumar Ghosh, and Md. Mostafizur Rahman “ A Discrete Event Barber Shop Simulation,” International Journal of Advanced Computer Science and Applications (IJACSA), ISSN-2156-5570, United States, Vol. 3, No. 2, pp.69-72, April, 2012 Curriculum Vitae of Dr. Md. Mostafizur Rahman Page 6 of 12 [11] Md. Mostafizur Rahman, Kazutaka Mitobe, Masafumi Suzuki, and Noboru Yoshimura “Application of Hand Motion Capture System for Piano Education” Transactions of the Virtual Reality Society of Japan (TVRSJ), Vol. 16, No. 1, p-83-92, March, 2011, ISSN-1344011x [10] Md. Mostafizur Rahman, Kazutaka Mitobe, Masafumi Suzuki, and Noboru Yoshimura “Analysis of Dexterous Finger movement for Piano Education using Motion Capture System” International Journal of Science and Technology Education Research (IJSTER),Vol. 2, No.2, p-22-31, February 2011, ISSN-2141- 6559 [09] Md. Mostafizur Rahman, Kazutaka Mitobe, Masafumi Suzuki, and Noboru Yoshimura “Analysis of Finger Movements of a Pianist Using Magnetic Motion Capture System with Six Dimensional Position Sensors” Transactions of the Virtual Reality Society of Japan (TVRSJ), Vol. 15, No. 2, p-243-250, June 2010, ISSN-1344011x [08]Md. Mostafizur Rahman, Md. Osman Goni, Md. Salah Uddin Yusuf, Md. Faruque Hossain, “Electromagnetic Transient Program (EMTP) Analysis of lighting surge on vertical conductor.” Journal of Electrical Engineering, Vol. EE 32, No. I & II, p-102-107, December 2005, ISSN-0379-4318 [07] Md. Osman Goni, Md. Mostafizur Rahman, Md. Salah Uddin Yusuf, Md. Faruque Hossain, “A consideration for the return stroke effect in a vertical conductor surge simulation”. Journal of Electrical Engineering, Vol. EE 32, No. I & II, p-108-116, December 2005, ISSN-0379-4318 [06] Sk. Shariful Alam, Md. Mostafizur Rahman “Vibrant Guard Channel Concept, a Pathway to Reduce the Call Dropping Probability for handoff Calls in Mobile Communications: Improving the QoS” Journal of Bangladesh Electronics Society, Vol. 7, N0. 1-2, p27-33, Jun-Dec, 2007, ISSN No. 1816-1510 [05] Md. Osman Goni, Md Faruque Hossain, Md. Salah Uddin Yusuf, Md. Mostafizur Rahman, E. Kaneko and H. Takahashi, “Simulation and experimental analysis of transient behavior of lightning surge on vertical conductors”, IEEE Trans. Power Delivery, Vol. 21, No. 4, p-1778-1786, October 2006, ISSN 0885-8977 [04] Md. Osman Goni, Md. Salah Uddin Yusuf, Md. Faruque Hossain, Md. Mostafizur Rahman, E. Kaneko and H. Takahashi, “Theoretical simulation and experimental investigation of the surge response of a tower model of vertical conductor,” International Journal of Power and Energy System, ACTA Press Paper, Vol. 27, No. 1, p-21-29, 2007, ISSN 1078-3466 [03] Md. Foisal Hossain, Md. Nurunnabi Mollah, Md. Mostafizur Rahman, A B M Aowlad Hossain, and A N M Enamul Kabir "Phase Properties of Chebyshev Distributed Electromagnetic Bandgap Structures (EBGSs) for Phased Arrays" Journal of Electrical Engineering, Vol. EE 33, No. I & II, p-15-19, December 2006, ISSN-0379-4318 [02] Md. Masud Rana, Md. Mostafizur Rahman, Hussein Md. Abu Nyeem, Sk. Shariful Alam, Md. Saiful Islam and D M Motiur Rahman “Power Allocation with and without soft Handover on the down link Interference of WCDMA Network” Daffodil International University Journal of Science and Technology, Volume 3 Issue 1, p-13-17, January, 2008, ISSN 1818-5878 [01] Khaled Mahbub Morshed, Md Faruque Hossain, Md. Mostafizur Rahman, Monir Hossen “An Improved Inverted-F Antenna to Achieve Better Performance in WLAN Applications” Journal of Bangladesh Electronics Society, Vol. 8, No. 1-2, p47-51, 2008
+Academic Awards, Fellowships and Research Grants: Academic Excellence Award 2009 from United Nations University, Japan AD Scientific Index ID – 415850 (https://www.adscientificindex.com/scientist.php?id=415850
+Training: Bangladesh Electrical Industries (PHILIPS) 03/10/92-10/11/92 (5 Weeks) Bangladesh Computer Council (BCC) 24/04/93-05/06/93 (6 Weeks) National Institute of Mass Communication (NIMC) 18/05/96-12/08/96 (3 months) Bangladesh Public Administration Training Center (BPATC) 23/02/97-22/06/97 (4 months) Rural Development Academy (RDA), Bogra 08/06/97-12/06/97 (1 Week) Islamic University of Technology (IUT) 13/12/2003-18/12/03 (1 Week) Engineering Staff College, Bangladesh 30th July, 04- 30th July,04 HEQEP Project (Teaching Learning) 18/11/2015 to 19/11/2015 IICT, BUET (Embedded System/IOT Based System Design 15/10/2018 to 16/10/2018 Board of Accreditation for Engineering and Technical 18/06/2019 Education(BAETE), [Outcome based Education], IEB
+Membership: Senior Member of Institute of Electrical and Electronic Engineer, USA (SMIEEE) - 94301094 Canadian Council of Professional Engineers (CCPE) : 00075981) Life Fellow, Institution of Engineers of Bangladesh (IEB) : F-6344 Life Member, Bangladesh Electronics Society (BES) : LM-061 Associate Member, Bangladesh Computer Society (BCS) : AM-807 Member, Jhenaidah Ex Cadet Association (JEXCA)
+
+--------------------------------------------------
+
+Name: Dr. Shaila Salahuddin
+Photo URL: https://nub.ac.bd/assets/images/pims/Shaila_EEE.jpg
+Designation: Associate Professor
+Department: Electrical and Electronic Engineering
+Academic Qualification: PhD, Department of Chemistry, University of Dhaka, Dhaka, Bangladesh. MSc, Department of Chemistry, University of Dhaka, Dhaka, Bangladesh. BSc. (Hons.), Department of Chemistry, University of Dhaka, Dhaka, Bangladesh
+Research: “Electrochemical Studies of Redox and Adsorption Behaviour of Vitamin B1 and B6 With Transition Metals”, M. Sc. Thesis, Department of Chemistry, University of Dhaka, Bangladesh, 1997. “Electrochemical Studies of Some components of Vitamin B and Their Complexation with Some Metal Ions”, Ph.D. Thesis, Department of Chemistry, University of Dhaka, Bangladesh, 2006.
+Publications: (a) Journal Publications (recognized and refereed journals): 1. Md. Abdul Jabbar, Shaila Salahuddin , Rowshan Jahan Mannan, "Electrochemical Investigation on the redox behaviour of Thiamine and its interaction with Cadmium in aqueous media". Journal of Bangladesh Chemical Society, Vol. 23(1&2),56-66, 2010. 2. Md. Abdul Jabbar, Kazi Kaium, Shaila Salahuddin , Reaz Ahmed Chowdhury and M.Q. Ehsan,"Voltammetric and Spectrophotometric evidence for the complexation between Ascorbic acid and Iron in aqueous media and its application ". Bangladesh J. Sci. Res.24(1): 1-14, 2011(June). 3. Mohammed Jamil, Shaila Salahuddin , Hasina Akter, Md. Shahjahan, "Fatty Acid Analysis of cinnamomum Zeylanicum (Dalchini) bark fatty oil". UITS Journal, Vol.1, Issue 2, pg. 86-91, December 2012., ISSN. 2226-3128. 4. Md. Abdul Jabbar, Shaila Salahuddin , Rowshan Jahan Mannan and Abu Jafar Mahmood, "Electrochemical investigation of the influence of thiamine on redox behavior of copper in aqueous solution". Bangladesh J. Sci. Res. 25(2): 99-109, 2012(December). 5. Md. Abdul Jabbar, Shaila Salahuddin , Rowshan Jahan Mannan and Abu Jafar Mahmood, "Electrochemical evidences for the enhancement of heterogeneous electron transfer rates of riboflavin in the presence of Copper". Dhaka University Journal of Science, 62(2):147- 152, 2014(July). 6. Md. Abdul Jabbar, Shaila Salahuddin , Abu Jafar Mahmood, Rowshan Jahan Mannan, "Voltametric evidences for the interaction of riboflavin with cadmium in aqueous media". Journal of Saudi Chemical Society (2016)20, 158–164. 7. Hasina Akter, Hasina Akhter Simol and Shaila Salahuddin “Treatment of Waste water Containing Brilliant Orange H2R and Brilliant Red M5B by Electrocoagulation” ". Dhaka University Journal of Science, (Dhaka University Journal of Science, 64(2):153-156, 2016,(July). 8. Shaila Salahuddin and Md. Abdul Jabbar, “Electrochemical studies for the interaction between pyridoxine hydrochloride and copper (II) in aqueous solution”. Journal of Bangladesh Chemical Society, Vol. 29(1) ,01-06, 2017. 9. R.J. Mannan, M. A. Jabbar, S. Salahuddin , "Electrochemical study of Vitamins (B1 & B2) and their interaction with metal ions," Proceedings of the Silver Jubilee Conference 2003, Bangladesh Chemical Society. (Published in the seminar proceeding). (b) Conferences (Conferences and Seminars) Papers Presented 1. Shaila Salahuddin , M.Abdul Jabbar and Rowshan Jahan Mannan, "Study of Electrochemical Behaviour of Medicinal Compounds," One Day Sumposium on Research Projects, April 21, 2001, Bose Center for Advanced Study and Research in Natural Sciences, University of Dhaka. 2. M. A.Jabbar, R.J. Mannan, , S. Salahuddin and B. Rashid, "Electrochemical studies of DL-Leucine, L-Proline and L- Tryptophanand Their Interaction with Copper and Iron,"Symposium AC2 " Electron Transfer Through Organic and Biological Bridges" in 203rd Meeting of The Electrochemical Society, Inc.,held in France, Paris, on april 29, 2003, ABSTRACT NO> AC2-2520. 3. Shaila Salahuddin , Rowshan Jahan Mannan, Md. Abdul Jabbar, "Interaction of Copper with Thiamine and Determination of Thiamine in the Presence of Copper," Bangladesh Chemical Congress, 2004, 27th Annual Conference of Bangladesh Chemical Society.
+Academic Awards, Fellowships and Research Grants: Dr.Kudrat-e- Khuda  fellowship, BCSIR, Dhaka, Bangladesh. Dr.Mofizuddin Ahmed Fellowship, BCSIR, Dhaka, Bangladesh. Bose Center for Advanced Study and Research in Natural Sciences, University of Dhaka. •  Bangladesh Education Board Scholarship (1983~1994) • Bangladesh Education Board Scholarship (1989~1992) • Bangladesh Education Board Scholarship  (1986~1988) • Bangladesh Education Board Scholarship  (1984~1985) •Bangladesh Education Board Scholarship  (1981~1983)
+Training: • BAETE Accreditation, Northern University Bangladesh. • Outcome Based Education, World University of Bangladesh.
+Membership: • Life Member, Bangladesh Chemical Society (LM-1277). • Life Member, Dhaka University Alumni Association (LM-3966). • Life Member, Dhaka University Registered Graduate (LM-16508). • Life Member, Dhaka University Chemistry Alumni Association (LM 241)
+E-mail: shaila.salahuddin@nub.ac.bd, shailasalahuddin@gmail.com
+
+--------------------------------------------------
+
+Name: Dr. Md. Shahiduzzaman
+Photo URL: https://nub.ac.bd/assets/images/pims/Shahiduzzaman%20EEE.jpg
+Designation: Associate Professor & Coordinator
+Department: Electrical and Electronic Engineering
+Academic Qualification: Ph.D. in Health Statistics,  Department of Population Science and Human Resource Development, University of Rajshahi,  Rajshahi-6205, Bangladesh M.Sc. in Applied Mathematics, University of Rajshahi,  Rajshahi-6205, Bangladesh B.Sc. (Hons) in Mathematics, University of Rajshahi,  Rajshahi-6205, Bangladesh
+Teaching Area: Mathematics, Statistics
+Research: Health Statistics, Mathematical Demography, Population Modeling
+Publications: Published Articles: 1. Mondal, N.I., Islam, R.,  Haque, N.,  Rana, M., Karim, R, Shahidzzaman, Karim, R. (2022). Preventive Knowledge About HIV/AIDS Infection among Msm in Rajshahi City, Bangladesh, Pakistan Journal of Medical and Health Sciences, 16(1): 480-485. 2. Shahiduzzaman, M. , Ali M.K., Khatun, M. M., Islam, M.N. and Islam, M.R. (2021). Factors Affecting the Results of Higher Secondary Certificate of the Students of Private Universities in Bangladesh: Approaching of Logistic Model, NUB Journal of Applied Sciences, 3(1-2): 19-24. 3. Rana, M.M., Islam, M.R.,  Karim, M.R., Islam, A.Z., Haque, M.A., Shahiduzzaman, M. , Hossain, M.G. (2020). Knowledge and practices of exclusive breastfeeding among mothers in rural areas of Rajshahi district in Bangladesh: Acommunity clinic based study, PLOS ONE, 15(5): 1-11. 4. Shahiduzzaman, M ., Ali, M.K. and Islam, M.R. (2017). Factors Influencing the Academic Performance of Undergraduate Students of Private Universities in Bangladesh: Modeling Approach, Human Evolution, 32 (1-2). 5. Shahiduzzaman, M. , Ali, M.K., Islam, M.R. and Islam, M.N. (2015). Factors influencing Money Savings among Street Children: A Survey in Dhaka City of Bangladesh, Manarat International University Studies, 4(1):35-44. 6. Shahiduzzaman, M. , Ali, M.K. and Islam, M.R.(2014).Socio-Economic Determinants of Smoking Practice of Street Children in Dhaka City of Bangladesh: A Logistic Model Approach, Manarat International University Studies, 3(1):1-8. 7. Khan, M.N., Mondal, M.N.I., Hoque, N., Islam M.S. and Shahiduzzaman, M. (2014). A Study on Quality of Life of Elderly Population in Bangladesh, American Journal of Health Research, 2(4): 152-157. 8. Mondal, M.N.I., Ferdous, S., Islam, M.Z., Hossain, M.S., Shahiduzzaman, M ., and Choudhary M.S.R. (2014). Childhood Disabilities and Child Protection in Rajshahi City, Bangladesh, Bangladesh e-Journal of Sociology, 11(1): 89-100. 9. Ullah, M.M.M.N., Hossain, M.S., Shahiduzzaman, M. , Islam, M.S., Islam, M.Z. and Choudhary, M.S.R. (2013). A Study on Some Aspects of Drainage System in Rajshahi City, Scientific Journal of Environmental Sciences, 2(6): 118-124. Papers Presented at Conferences: 1. Shahiduzzaman, M. , Ali, M.K., Islam, M.R. and Islam, M.N. (2019). Determinants of Ever Injury of Street Children of Dhaka City in Bangladesh: An Approach of Logistic Model, 7th International Conference on Data Science and SDGs: Challenges, Opportunities and Realities, organized by Department of Statistics, University of Rajshahi,  Rajshahi-6205, Bangladesh. 2. Shahiduzzaman, M. , Ali, M.K., Islam, M.R. and Islam, M.N. (2019). Factors affecting the sickness of street children in Dhaka city, Bangladesh, National Conference on Population and Sustainable Development: Issues and Challenges in Bangladesh, organized by Department of Population Science and Human Resource Development, University of Rajshahi,  Rajshahi-6205, Bangladesh. Accepted Articles: 1. Shahiduzzaman, M. , Ali, M.K., Islam, M.N. and Islam, M.R. (2022). Determinants of Currently Attending School of Street Children in Dhaka City, Bangladesh, Journal of Advanced Studies and Multidisciplinary Researches 1(1). 2. Shahiduzzaman, M. , Ali, M.K., Islam, M.N. and Islam, M.R. (2022). Factors Affecting the Drug Addiction among Street Children of Dhaka City in Bangladesh:  Approaching of Multivariate Technique, Human Biology Review, 11 (4).
+Training: 1. Participated in a “Faculty Development Program on Outcome Based Education (OBE) Curriculum” conducted on October 17 & 18, 2021 organized by Northern University Bangladesh. 2. Participated in a “Workshop on BAETE Accreditation and Outcome Based Education” conducted on October 19, 2019 organized by Northern University Bangladesh. 3. Participated in a “Workshop on Curriculum Development & Assessment” conducted on February 27, 2018 organized by Institutional Quality Assurance Cell (IQAC), Northern University Bangladesh. 4. Participated in a “Workshop on Capacity Building in Higher Degree Research” conducted on November 28, 2016 jointly organized by Australian Academy of Business Leadership and Northern University Bangladesh at Northern University Bangladesh. 5. Participated in a “Workshop on Pedagogy and Meta-cognitive Tools and Techniques: Module I” conducted on October 1, 2016 organized by Institutional Quality Assurance Cell (IQAC), Northern University Bangladesh. 6. Participated in a “Workshop on Research Methodology and Report Writing” conducted on May 17, 2016 organized by Institutional Quality Assurance Cell (IQAC), Northern University Bangladesh. 7. Participated in a “Workshop on Systematic review and Meta-analysis” conducted on September 6-7, 2015 organized by Department of Population Science and Human Resource Development, University of Rajshahi, Bangladesh 8. Participated in a “Workshop on Research Methodology” conducted on April 14, 2014 organized by Department of Statistics, University of Rajshahi, Bangladesh
+Membership: Life Member, Bangladesh Mathematical Society
+Mobile: 01716175652
+E-mail: shahidnub@yahoo.com
+
+--------------------------------------------------
+
+Name: Dr. Md. Mizanur Rahman
+Photo URL: https://nub.ac.bd/assets/images/pims/Dr.%20Md.%20Mizanur%20Rahman.jpg
+Designation: Head (Acting) & Associate Professor
+Department: Electrical and Electronic Engineering
+Academic Qualification: Ph.D in Engineering : Gifu University, Japan M. Sc. in Applied Physics & Electronics : RU B.Sc. in Applied Physics & Electronics : RU
+Mobile: 01719023269
+E-mail: mizanur.rahman@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Dr. Engr. Nasir Uddin
+Photo URL: https://nub.ac.bd/assets/images/pims/Dr%20Nasir%20Uddin%20EEE.jpg
+Designation: Assistant Professor (Study Leave)
+Department: EXAM
+Academic Qualification: PGR, OTU (Canada), PhD, PSU & UTB (Czech); MSc, IIUM (Malaysia)
+Publications: Total 42 (11 Conferences + 28 Journals+ 3 Posters) International Conference Papers (11): 1. M. N. Uddin , M. M. Rashid, M. Parvez, M. F. M. Elias, N.A Rahim, M. M. Sultan, N. A. Nithe “Hybrid Fuzzy and PID Controller Based Inverter to Control Speed of AC Induction Motor”. International Conference on Electrical & Electronics Engineering (ICEEE), Rajshahi University of Engineering Technology, 4-6 November 2015. (IEEE Xplore). 2. Md. Nasir Uddin *, M M Rashid, M Rubaiyat, aBelayet Hossain, bS M Salam, cN A Nithe “Comparison Of Position Sensorless Control Based Back-EMF Estimators in PMSM”. International Conference on Computer and Information Technology (ICCIT), Military Institute of Science and Technology, 21-23 December 2015. (IEEE Xplore). 3. Md. Nasir Uddin *, M M Rashid, N A Nithe “Custom MPPT Design of Solar Power Switching Network for Racing Car”. International Conference on Computer and Information Technology (ICCIT), Military Institute of Science and Technology, 21-23 December 2015. (IEEE Xplore). 4. Md. Nasir Uddin *, M M Rashid, N A Nithe “Development of An Absorption Silencer for Generator's Noise Reducing”,1st Int’l Conference on Advanced Information & Communication Technology 2016, IUC, Chittagong, 16-17 May. (ICAICT 2016) 5. Md. Nasir Uddin *, M M Rashid, N A Nithe “Comparative Study of Integrated Transceiver for Real Time Monitoring in Rescue Operation”,1st Int’l Conference on Advanced Information & Communication Technology 2016, IUC, Chittagong, 16-17 May. (ICAICT 2016) 6. Md. Nasir Uddin , Juntakan Taweekun and Md.Ahosan Habib, Kuaanan Techato “Characteristics of Biomass Fuels from Local Agricultural Residues: Bangladesh Prospects” 1st International Conference on Botanical Pesticides and Environmental Sustainability, Rajshahi University, Bangladesh. 7. Md. Nasir Uddin , Juntakan Taweekun and Md.Ahosan Habib, Kuaanan Techato “Environmental Impact of Biomass Energy from Rice Husk: Bangladesh Context” 1st International Conference on Botanical Pesticides and Environmental Sustainability, Rajshahi University, Bangladesh. 8. Md. Nasir Uddin , Juntakan Taweekun and Md.Ahosan Habib, Kuaanan Techato “Investigate of a waste power plant: Sustainable Energy and Environmental Prospects” 1st International Conference on Botanical Pesticides and Environmental Sustainability, Rajshahi University, Bangladesh. 9. Md. Nasir Uddin *, M M Rashid, N A Nithe, JI Rony “Performance and Cost Analysis of Diesel Engine with Different Mixing Ratio of Raw Vegetable Oil and Diesel Fuel” Proceedings of the International Conference Biotechnology Engineering, ICBioE ’16, IIUM, Malaysia. 10. Md. Nasir Uddin *, M M Rashid, N A Nithe, JI Rony “An Investigation on the Performance of a Single Cylinder Diesel Engine Using Biodiesel” Proceedings of the International Conference Biotechnology Engineering, ICBioE ’16, IIUM, Malaysia. 11. Md. Nasir Uddin *, M M Rashid, N A Nithe, JI Rony “Investigation of Physical and Thermo-Chemical Characteristics of Biomass Fuels from Local Agricultural Residues” Proceedings of the International Conference Biotechnology Engineering, ICBioE ’16, IIUM, Malaysia. International Journal Papers (28): 1. MN Uddin , K Techato, J Taweekun, M. Mofijur, M. G. Rasul. An overview of recent developments in Biomass pyrolysis technologies. Energies, 2018. ISI indexed. (I.F-2.676). 2.M. Mofijur, M. G. Rasul, S Hasan, AK Azad, MN Uddin . Effect of small proportion of butanol additiv e on the performance, emission, and combustion of Australian native first- and second-generation biodiesel in a diesel engine. Environmental Science and Pollution Research, 2017. Springer ISI indexed. (I.F-2.17). 3. MN Uddin , K Techato, J Taweekun, M. M Rashid, MA Rahman. Investigation on producing silica from rice husk biomass. international journal of renewable energy resources. University of Malaya journal, 2018. 4. MN Uddin , MA rahman, k techato, j taweekun, m. mofijur, m. g. rasul. sustainable biomass as an alternative energy source: bangladesh perspective, Energy procedia, Elsevier 2019. ISI indexed. (I.F-1.44) 5. MN Uddin , MA Rahman, K Techato, J Taweekun, M. Mofijur, M. G. Rasul. Coffee oil: A promising source for Biodiesel production. Energy Procedia, Elsevier 2019. ISI indexed. (I.F-1.44) 6. MN Uddin , K Techato, J Taweekun, M. Mofijur, M. G. Rasul, MA Rahman. Enhancement of Biogas generation in up-flow sludge blanket from POME. Energy Procedia, Elsevier 2019. ISI indexed. (I.F-1.44) 7. MN Uddin , MA Rahman, K Techato, J Taweekun, M. Mofijur, M. G. Rasul. Renewable Energy in Bangladesh: status and prospects. Energy Procedia, Elsevier 2019. ISI indexed. (I.F-1.44) 8.M. Mofijur, M. G. Rasul, MN Uddin . Investigation of exhaust emissions from a stationary diesel engine fueled with biodiesel. Energy Procedia, Elsevier 2019. ISI indexed. (I.F-1.44) 9.TMI Mahlia, M Mofijur, MN Uddin . Energy Efficiency Analysis in Building Walls in Tropical ClimateUsing Thermal Insulation System. Encyclopedia of Renewable and Sustainable Materials, Elsevier 2019. ISI indexed. 10. M. N. Uddin , M. M. Rashid, MA Rahman, R. Roy. INVESTIGATION ON PRODUCING SILICA FROM RICE HUSK BIOMASS, INTERNATIONAL JOURNAL OF RENEWABLE ENERGY RESOURCES, University of Malaya UMPEDAC 2018. Scopus indexed. 11. Md. Nasir Uddin , M. M. Rashid, N. A. Nithe “Low Voltage Distribution Level Three Terminal Upfc Based Voltage Regulator for Solar Pv System“. ARPN Journal of Engineering and Applied Sciences. Scopus Indexed. VOL. 10, NO 22, 2006. 12.M. A. Aziz, Arifuzzaman, Fahmida Shams, M. M. Rashid, Md. Nasir Uddin “Design and development of a compressed air machine using a compressed air energy storage system” ARPN Journal of Engineering and Applied Sciences. Scopus Indexed. VOL.10, NO 23, 2015. 13. Md. Nasir Uddin *, M M Rashid, aBelayet Hossain, bS M Salam, cN A Nithe, SZ Ahmed “Automated Queue Management System”. Global Journal of Management & Business Research (A) Volume XVI, Issue-I, Version-I, Pages: 51-58, 2016. 14. Md. Nasir Uddin *, M M Rashid, aBelayet Hossain, bS M Salam, cN A Nithe “Global Energy: Need, Present Status, Future Trend & Key Issues”. Global Journal of Researches in Engineering (F) Volume XVI Issue I Version I, Pages: 35-51, 2016. 15. Md. Nasir Uddin *, M M Rashid, aBelayet Hossain, bS M Salam, cN A Nithe “Development of Voice Recognition for Student Attendance”. Global Journal of Human Social Science (G) Volume XVI Issue I Version I, Pages: 01-06, 2016. 16. Md. Nasir Uddin *, M M Rashid, aBelayet Hossain, bS M Salam, cN A Nithe “Maximum Power Point charge Controller for DCDC Power Conversion in Solar PV System”.Global Journal of Researches in Engineering (F) Volume XVI Issue I Version I, Pages: 19-34, 2016. 17. Md. Nasir Uddin *, M M Rashid, aBelayet Hossain, bS M Salam, cN A Nithe “New Energy Sources: Technological Status and Economic Potentialities”. Global Journal of Science Frontier Research Volume XVI, Issue I, Version I, Pages: 25-37, 2016. 18. Md. Nasir Uddin *, M M Rashid, aBelayet Hossain, bS M Salam, cN A Nithe “Effects of Energy on Economy, Health and Environment”. Global Journal of Science Frontier Research Volume XVI, Issue I, Version I, Pages: 01-13, 2016. 19. Md. Nasir Uddin *, M M Rashid, N A Nithe “Reduce Generators Noise with Better Performance of A Diesel Generator Set Using Modified Absorption Silencer”. Global Journal of Researches in Engineering, GJRE (2016) Volume 16 Issue 1: 41-54. 20. Md. Nasir Uddin *, M M Rashid, N A Nithe “Three Phase UPFC Regulator with Reduced Bus Capacitance for Solar PV Application System”. Global Journal of Researches in Engineering, GJRE (2016) Volume 16 Issue 4: 25-32. 21. Md. Nasir Uddin *, M M Rashid, N A Nithe “A Mechanism Concept and Design of Reconfigurable Robot for Rescue Operation”. Global Journal of Researches in Engineering, GJRE (2016) Volume 16 Issue 1: 25-34. 22. Md. Nasir Uddin *, M M Rashid, N A Nithe “Design & Development of Electric Cable Inspection”. Global Journal of Researches in Engineering 16 (1), 55-63. 23. Md. Nasir Uddin *, M M Rashid, N A Nithe “Two Degree-of-Freedom Camera Support System”. Global Journal of Computer Science and Technology 16 (1), 1-5 24. Md. Nasir Uddin *, M M Rashid, N A Nithe “ECG Arryhthmia Classifier”. Global Journal of Researches in Engineering 16 (3), 9-16. 25. Md. Nasir Uddin *, M M Rashid, N A Nithe “Development of Automatic Fish Feeder”. Global Journal of Researches in Engineering 16 (2), 10. 26. Md. Nasir Uddin *, M M Rashid, N A Nithe “Development of Controller for Te in Force Adjustable Damper”. Global Journal of Researches in Engineering 16 (2), 8. 27. Md. Nasir Uddin *, M M Rashid, N A Nithe “Comparative Study of Integrated Transceiver for Real Time Monitoring in Rescue Operation” Einstin Journal of Civil Architecture Engineering, V-1,i-1 28.MA Rahman, R Roy, MN Uddin “Remote Sensing Method for Flood Management System” International Journal of Latest Research in Engineering and Management, 2017. Poster (3): IIUM Conference & IUB Bangladesh & PSU Sustainable Intl. conference 1.Development of Microcontroller Based PWM Charge Controller for Solar PV Application. 2.National Project Competition for Green Energy & Technology, IUB, BD. 3.International Sustainable Energy Conference, Thailand Edu Ministry, Thailand.
+Membership: IEEE, IDEB, CONACYT, UTB CPS, PSU SEM, IIUM MCT, BVCPS, BPI ENT, BEJV OPT
+Mobile: 01830857224
+E-mail: engnasirbd@gmail.com
+
+--------------------------------------------------
+
+Name: Rubana Hoque Chowdhury
+Photo URL: https://nub.ac.bd/assets/images/pims/Rubana%20Hoque%20Chowdhury.jpg
+Designation: Assistant Professor (Study Leave)
+Department: Electrical and Electronic Engineering
+Academic Qualification: M Sc. Engineering (Research Mode) Department of Electrical, Electronic and System Engineering Universiti Kebangsaan Malaysia (UKM), Malaysia B.Sc in EEE, CUET
+Teaching Area: Electronics, Semiconductor physics, VLSI, Biomedical instrumentation
+Research: Artificial Intelligence, IC design, FPGA
+Publications: Journals: 1. Rubana H. Chowdhury , Mamun B. I. Reaz , Mohd Alauddin Bin Mohd Ali , Ashrif A. A. Bakar , Kalaivani Chellappan  and Tae G. Chang,  Surface Electromyography Signal Processing and Classification Techniques, Sensors , 13(9), 12431-12466, 2013; doi:10.3390/s130912431 (Q1, ISI-cited Publication) 2. Rubana H. Chowdhury , M.B.I. Reaz, A.A.A. Bakar and Md. Sharif Hasan, Muscle Contraction: The Subtle Way of Human Computer Interaction, Research Journal of Applied Sciences, Engineering and Technology 6(12): 2192-2196, 2013. (Scopus-cited publication) 3. Chowdhury, Rubana H .; ULLAH, HADAATE; Reaz, M. B. I, Effectiveness of empirical mode decomposition technique on sEMG signals in fatigue assessment during a walk, Journal of Theoretical & Applied Information Technology. 80(1), 133-140, Oct 2015. (ISI-cited publication) 4. Rubana Haque Chowdhury , Mamun Bin Ibne Reaz,  Fatigue contraction analysis using empirical mode decomposition and wavelet transform, Jurnal Teknologi 77(6), 83–89, 2015. (Scopus-cited publication) 5. Hadaate Ullah , Shahin Mahmud , Rubana Hoque Chowhury , Identification of Brain disorders by Sub-band Decomposition of EEG signals and Measurement of Signal to Noise Ratio, Indonesian Journal of Electrical Engineering and Computer Science, 4 (3), 568 ~ 579, 2016. (Scopus-cited publication) 6. Rubana Haque Chowdhury, Mamun Bin Ibne Reaz, M. Liakot Ali, S. Mahbub Advanced simple and robust technique for detecting localized early muscle fatigue, Journal of Engineering Science and Technology (Q2,ESCI), 14(6), 2019 7. Rubana Haque Chowdhury , Mohammad Ismail Hossain, Sazzad Hossain, Muhammad Liakot Ali, Licensed Under Creative Commons Attribution CC BY Interconnected Power Transmission Network of Chattogram Circle: A Survey. International journal of Science and research, 8(2), 842-854,2019 Conferences: 1. Rubana H.Chowdhury , M.B.I.  Reaz, A.A.A bakar and M.A.M. Ali, Noise reduction and feature extraction of electromyography signal using wavelet transform, International Conference on Engineering and Built Environment (ICEBE) 2012, Malaysia. 2. Rubana H.Chowdhury , M.B.I.  Reaz and M.T.Islam, Wavelet Transform to Recognize Muscle Fatigue, Internet (AH-ICI), 2012 Third Asian Himalayas International Conference, 1-5, Kathmandu. 3. Chowdhury, R.H . ; Reaz, M.B.I. ; Ali, M.A.M., Determination of muscle fatigue in SEMG signal using empirical mode decomposition, Biomedical Engineering and Sciences (IECBES), 2014 IEEE Conference, Page(s): 932 – 937, Miri,Sarawak, Malaysia. 4. Sancoy Barua; Rubana H. chowdhury ;  M.U.M Gia Ul Islam  and M. Iftekhar Uddin,  Power Harvesting from Human Footstep in Crowded Area,  Proceedings of the International Conference on Mechanical Engineering and Renewable Energy 2019 (ICMERE2019) 11 – 13 December, 2019, Chittagong, Bangladesh 5. Sancoy Barua; Anoy saha;  Ainul Anam Shahjamal Khan and Rubana H. chowdhury , Comparative Study of Object Shape Recognition using Ultrasonic Sensor Arrays with Artificial Neural Network, 2019 International Conference on Innovation in Engineering and Technology (ICIET)
+Academic Awards, Fellowships and Research Grants: • Obtained research assistant scholarship (GRA) during 2012-2014 from Malaysians Government, University Kebangsaan Malaysia (UKM),  Malaysia • Obtained Merit Based Scholarship in all terms of 2nd, 3rd and 4th level of B. Sc. Engg. (in EEE) study in CUET to be among the top twenty five students list based on CGPA of that particular term.
+Training: • ‘Academic Writing Skills for Research Article’ held at Faculty of Engineering and Built Environment, UKM, Malaysia • ‘Training on Learning outcome, Assessment System, Curriculum Design & Self Assessment’ organized by IQAC,SUB 19 July to 21 July, 2016 • ‘Online Academic Management ‘organized by IQAC,SUB February 09,2017 • ‘Online Teaching, Examination and Evaluation Techniques’ organized by IQAC,SUB February 10,2017 • ‘Teambuilding: A way to Self-Assessment’ organized by SAC committee, English dept, SUB. Dated 9  April  2017 • ‘Role and Responsibility and Ethical Principles’ of University Teachers organized by IQAC, SUB. Dated 31 january,2018 • ‘Modern Teaching Methodology’ organized by IQAC, SUB. Dated 27 May,2018 • ‘Assessment Strategy for Students’ organized by IQAC, SUB. Dated 28 May,2018 • ‘Post self assessment improvement plan’ organized by SAC committee, English dept, SUB. Dated 28 June 2018 • ‘Outcome Based Education: Emergence, Benefits, Approaches and Structure’ organized by IQAC, SUB. Dated 17 July,2018 • ‘Salient Elements of Outcome Based Curriculum’ organized by IQAC, SUB. Dated 18 July,2018 • ‘Post self assessment improvement plan’ organized by SAC committee, ECE dept, SUB. Dated 25 July 2018 • ‘Good governance in the Higher Education of Bangladesh’ organized by IQAC, SUB. Dated 19 march,2018 • ‘Review and Modification of University Rules Regulations and Ordinance for Good Governance’ organized by IQAC, SUB. Dated 20 march,2018 • ‘Methods, Techniques and Tools of Research in Higher Education’ organized by SAC committee, dept of Law, SUB. Dated 23 July 2018 • “Implementation of complex engineering problem solving and complex engineering activities” organized by IEB. Resource persons-  Ir. Dr. Hjh Siti Hawa Hamzah and Ir. Liew Chia Pao, Associate Directors of the Engineering Accreditation Department of Board of Engineers Malaysia Dated 08 October 2019
+Membership: IEB, IEEE
+E-mail: rubana@nub.ac.bd; rubanachy@gmail.com
+
+--------------------------------------------------
+
+Name: Imran Chowdhury
+Photo URL: https://nub.ac.bd/assets/images/faculty/2024_Imran%20Chowdhury_April%20(1).jpg
+Designation: Assistant Professor
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc in EE, Texas A&M University-Kingsville, USA; B.Sc in ECE, UITS, Dhaka.
+Mobile: 01717006896
+E-mail: imranchd@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Dr. Md. Sazib Mollik
+Photo URL: https://nub.ac.bd/assets/images/pims/Sozib.png
+Designation: Assistant Professor & Coordinator (Day)
+Department: Electrical and Electronic Engineering
+Academic Qualification: Post. Doc. in EV BTMCS (2 years), IIUM, PhD in Mechatronics Engineering, IIUM, M.Sc IIUM, (Malaysia)
+Publications: 1. Hannan MA, Al-Shetwi AQ, Mollik MS , Ker PJ, Mannan M, Mansor M, Al-Masri HM, Mahlia TI. Wind Energy Conversions, Controls, and Applications: A Review for Sustainable Technologies and Directions. Sustainability, MDPI, 2023 Feb 22;15 (5):3986. (Q1, ISI, SCOPUS ) 2. Hannan MA, Mollik MS , Al-Shetwi AQ, Rahman SA, Mansor M, Begum RA, Muttaqi KM, Dong ZY. Vehicle to grid connected technologies and charging strategies: Operation, control, issues and recommendations. Journal of Cleaner Production. 2022 Jan 28:130587. (Q1, ISI, SCOPUS) 3. M S Mollik , Hannan MA, Ker PJ, Faisal M, Rahman MS, Mansur M, Lipu MH. Review on Solid-State Transfer Switch Configurations and Control Methods: Applications, Operations, Issues, and Future Directions. IEEE Access. 2020 Oct 6. (Q1, ISI, SCOPUS) 4. Hasan Muhammad Hasibul, Md Sazib Mollik , and Muhammad Mahbubur Rashid. "Effect of nanoclay on thermal behavior of jute reinforced composite." The International Journal of Advanced Manufacturing Technology 94, no. 5-8 (2018): 1863-1871. (Q1, ISI, SCOPUS) 5. Mollik, Sazib , et al. (2016) "Prospects, progress, policies, and effects of rural electrification in Bangladesh." Renewable and Sustainable Energy Reviews 65: 553-567. (Q1, ISI, SCOPUS) 6. Mollik MS , Hannan MA, Reza MS, Abd Rahman MS, Lipu MS, Ker PJ, Mansor M, Muttaqi KM. The Advancement of Solid-State Transformer Technology and Its Operation and Control with Power Grids: A Review. Electronics. 2022 Jan;11(17):2648. (Q2, ISI, SCOPUS) 7. Faisal M, Hannan MA, Ker PJ, Rahman MS, Mollik MS , Mansur MB. Review of Solid-State Transfer Switch on Requirements, Standards, Topologies, Control, and Switching Mechanisms: Issues and Challenges. Electronics. 2020 Sep;9(9):1396. (Q2, ISI, SCOPUS) 8. Md Sazib Mollik , Muhammad Mahbubur Rashid, A Rahman, and A Hasan (2020). “Experimentally thermal analysis on the performance of LiFePo4 battery during rapid charge”. International Journal of Energy Technology and Policy (IJETP). (Q3, ISI, SCOPUS) 9. Md Sazib Mollik , Muhammad Mahbubur Rashid, A Rahman, and A Hasan (2019). “Temperature Effect and Battery Charging Characteristics Analysis Based on Charging C-Rate”. International Journal of Engineering and Advanced Technology (IJEAT) Vol. 9, Issue-1, P.159-165, Publisher Blue Eyes Intelligence Engineering & Sciences Publication. (SCOPUS) 10. Muhammad Mahbubur, Abdullah Al Mamun, Abdul Hassan Jaafar, and Md Sazib Mollik (2018). "Development of Non-Contact Liquid Level Measurement and Data Storage System." International Journal of Engineering Materials and Manufacture. 3(3) 134-142 (SCOPUS) 11. Rashid Muhammad Mahbubur, and Md Sazib Mollik . (2016) "THE DESIGN AND CONTROL SYSTEM OF SMALL ELECTRIC VEHICLE (EV): A REVIEW”. ARPN Journal of Engineering and Applied Sciences. (SCOPUS) 12. Hassan, Muhammad Hasibul, and Md Sazib Mollik (2016). "Crystallization kinetics and thermal behaviors of multi-walled carbon nanotube dispersed jute reinforced composite." ARPN Journal of Engineering and Applied Sciences 11.6: 4137-4142. (SCOPUS). 13. Mollik, M.S ., Rafin, S.S.H., Al Mamun, A., Irfeey, A.M.M., Soliman, A.S. and Mohammed, O.A., 2023, April. Improved Performance of a Two-Stage Converter Topology Using Incremental Conductance-Based MPPT Design for Grid-Tied PV Systems. In SoutheastCon 2023 (pp. 490-497). IEEE. 14. Mizanur, R., Rashid, M. M., Rahman, A., Alam, A. Z., Ihsan, S., & Mollik, M. S. (2017, March). “Analysis of the internal temperature of the cells in a battery pack during SOC balancing”. In IOP Conference Series: Materials Science and Engineering (Vol. 184, No. 1, p. 012014). IOP Publishing. (SCOPUS) 15. Hasan, Muhammad Hasibul, and Md Sazib Mollik (2015). "Mechanical Performance of Montmorillonite Dispersed Jute Reinforced Composite." MATEC Web of Conferences. Vol. 30. EDP Sciences. (SCOPUS) 16. Hasan, Muhammad Hasibul, Sazib Mollik , and Muataz Hazza Faizi (2015). "Prediction of crack growth propagation of a super alloy through ANN modeling." Advanced Materials Research. Vol. 1115. Trans Tech Publications, (SCOPUS) 17. Mollik, Sazib , Irum Tariq, and Muhammad H. Hasan. (2015.). "Structural applications and emerging trends of nano-and biocomposites: a review." Advanced Materials Research. Vol. 1115. Trans Tech Publications, (SCOPUS) 18. Rashid Muhammad Mahbubur, Md Sazib Mollik , and Mohammed Ataur Rahman. (2014)."Design and development of a flying robot with improved time constant in rescue accident victims." ARPN Journal of Engineering and Applied Sciences 11, 4159-4162. (SCOPUS) 19. Mollik, M.S ., Rafin, S.S.H., Al Mamun, A., Irfeey, A.M.M., Soliman, A.S. and Mohammed, O.A., 2023, April. Improved Performance of a Two-Stage Converter Topology Using Incremental Conductance-Based MPPT Design for Grid-Tied PV Systems. In SoutheastCon 2023 (pp. 490-497). IEEE. BOOK PUBLICATION: Md. Sazib Mollik , M. M. Rashid, (2021) “Evaporative Cooling Based Thermal Management System of LiFePo4 Battery During Quick Charging” Daffodil Global Publishers Delaware USA
+Membership: IEEE Industrial Automation and Control Committee (IACC) Applied Composite Materials Asian Journal of Electrical and Electronic Engineering Journal of Sustainable Engineering and Science International Conference on Mechatronics Engineering (ICOM’2022)
+
+--------------------------------------------------
+
+Name: Dr. Mohammad Shafiul Alam
+Photo URL: https://nub.ac.bd/assets/images/pims/Mohammad%20Shafiul%20Alam.jpg
+Designation: Assistant Professor
+Department: Electrical and Electronic Engineering
+Academic Qualification: Ph.D.in Mechatronics Engineering, International Islamic University Malaysia M Sc. in EEE, Military Institute of Science and Technology B Sc. in EEE, Military Institute of Science and Technology
+Teaching Area: Communication Theory, Signal processing, Structural Programming
+Research: Deep Learning, optical modulator, and waveguide design
+Publications: Journal Articles 1. Alam, M. S., Elsheikh, E. A., Suliman, F. M., Rashid, M. M., & Faizabadi, A. R. (2024). Innovative Strategies for Early Autism Diagnosis: Active Learning and Domain Adaptation Optimization. Diagnostics, 14(6), 629. 2. Alam, M. S., Rashid, M. M., Faizabadi, A. R., Mohd Zaki. (2024). POWER OF ALIGNMENT: EXPLORING THE EFFECT OF FACE ALIGNMENT ON ASD DIAGNOSIS USING FACIAL IMAGES. IIUM Engineering Journal, 25(1), 317-327. 3. Alam, M. S., Tasneem, Z., Khan, S. A., & Rashid, M. M. (2023). Effect of Different Modalities of Facial Images on ASD Diagnosis using Deep LearningBased Neural Network. Journal of Advanced Research in Applied Sciences and Engineering Technology, 32(3), 59-74. 4. Alam, M. S., Rashid, M. M., Faizabadi, A. R., Mohd Zaki, H. F., Alam, T. E., Ali, M. S., ... & Ahsan, M. M. (2023). Efficient Deep Learning-Based DataCentric Approach for Autism Spectrum Disorder Diagnosis from Facial Images Using Explainable AI. Technologies, 11(5), 115. 5. Alam, M. S., Rashid, M. M., Roy, R., Faizabadi, A. R., Gupta, K. D., & Ahsan, M. M. (2022). Empirical study of autism spectrum disorder diagnosis using facial images by improved transfer learning approach. Bioengineering, 9(11), 710. 6. Alam M.S., Rahman M., Samy A.A., Afroj J., Prottasha S.N., Uddin M.N., Ahammed S., Roy R. and Rashid M.M., (2020), Adjusting the LTE structural design to 5G: Prospects and Challenges. TEST Engineering and Management, 83, pp. 1405-1410 7. Rahman, M., Alam, M. S., Islam, S., Samy, M. A. A., & Islam, N. A. (2018). Cooperative MIMO OFDM system based On amplify and Forward RELAY: Evaluation of ZF-SIC and MMSE-SIC equalization. PRZEGLĄD ELEKTROTECHNICZNY, 1(9), 77–81. https://doi.org/10.15199/48.2018.09.19. 8. Alam, M. S., Rashid, M. M. (2024). ENHANCED EARLY AUTISM SCREENING: ASSESSING DOMAIN ADAPTATION WITH DISTRIBUTED FACIAL IMAGE DATASETS AND DEEP FEDERATED LEARNING. IIUM Engineering Journal, (under review) Conference 1. Muhammad Mahbubur Rashid, Mohammad Shafiul Alam, Md Asikul Haque, Mohammad Yeakub Ali, "Effect of Different Modalities of Facial Images for 180 Diagnosis of ASD by Deep Neural Network", Conference on Sustainable Innovation in Engineering and Technology 2023, Malaysia. 2. Mohammad Shafiul Alam, Muhammad Mahbubur Rashid, Mohammad Yeakub Ali, " Addressing the Challenge of Dataset Acquisition for ASD Diagnosis with Deep Learning-Based Neural Networks”, Conference on Sustainable Innovation in Engineering and Technology 2023, Malaysia. 3. Muhammad Mahbubur Rashid, Mohammad Shafiul Alam, Mohammad Yeakub Ali, " Developing a Multi-Modal Dataset for Deep Learning-Based Neural Networks in Autism Spectrum Disorder Diagnosis”, Conference on Sustainable Innovation in Engineering and Technology 2023, Malaysia. 4. Mohammad Shafiul Alam, Muhammad Mahbubur Rashid, Mohammad Yeakub Ali, " Employing Explainability on facial landmarks for Autism Spectrum Disorder Diagnosis using deep CNN”, Conference on Sustainable Innovation in Engineering and Technology 2023, Malaysia. 5. Partho, M. T. H., Alam, M. S., & Rashid, M. M. (2023, August). Modeling of Temperature and Irradiance Effect on Solar Cells Parameters By MATLAB/Simulink and Verification Using Experimental Data. In 2023 9th International Conference on Computer and Communication Engineering (ICCCE) (pp. 96-101). IEEE. 6. Alam M. S., and Alam M. S. (2018) "Propagation of Surface Plasmon Polaritons in Hybrid Waveguide with Metal Cap and Graphene Layer," 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT), Dhaka, Bangladesh, pp. 506-509, doi: 10.1109/CEEICT.2018.8628149.
+Academic Awards, Fellowships and Research Grants: Obtained Total Fee waiver (TFW-2021) scholarship from 2021 at International Islamic University Malaysia  (IIUM),  Malaysia Obtained Merit-Based Scholarship in all terms of B. Sc. Engg. (in EEE) study in MIST to be among the top five students list based on CGPA.
+Training: • ‘Research Methodology and report writing ’ held at NUB, Dhaka. • ‘Curriculum Development, Mapping of objectives of courses with ILO and Evolution matrix’ organized by IQAC, NUB 08 May to 10 May 2017
+Mobile: 01977181410
+E-mail: shafiul.alam@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Mahmuda Akter
+Photo URL: https://nub.ac.bd/assets/images/pims/Mahmuda%20Akter.jpg
+Designation: Assistant Professor
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc ECE: KUET B.Sc ECE: KUET
+Mobile: 01534218773
+E-mail: mahmudaakter@nub.ac.bd
+
+--------------------------------------------------
+
+Name: S.m. Sajjat Hossain Rafin
+Photo URL: https://nub.ac.bd/assets/images/pims/S.M.Sajjad%20Hossain%20Rafin(EEE).jpg
+Designation: Senior Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Academic Qualification: M. Sc. in Electronic Systems Engineering, Hanyang University, South Korea.
+Teaching Area: Electric Machine, Power Electronics, Electric Power Systems, and Renewable Energy to name a few.
+Research: Electric Machine, Power Electronics, Motor Drive, Electrified Transportation
+Academic Awards, Fellowships and Research Grants: • Bangabandhu Fellowship on Science and ICT, by the Ministry of Science and Technology, Government of the People’s Republic of Bangladesh. • Brain Korea (BK21) Scholarship by Korean Government. • HISP Scholarship by Hanyang University, South Korea.
+Training: • BAETE Accreditation, Northern University Bangladesh. • Outcome Based Education, World University of Bangladesh. • Captive Power Generation, Engineering Staff College, Bangladesh • Programming of PLC, Engineering Staff College, Bangladesh • Electrical Services for Buildings & Industries, Engineering Staff College, Bangladesh • Corporate Social Responsibility (CSR) for Engineers & Manufacturers, DCCI, Bangladesh • Chemical Management Training Program, GIZ, Bangladesh
+Membership: IEB, IEEE
+E-mail: rafin@nub.ac.bd; rafin.educator@gmail.com
+
+--------------------------------------------------
+
+Name: Awatif Nadia
+Photo URL: https://nub.ac.bd/assets/images/pims/Awatif.jpg
+Designation: Senior Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc in ECE : MIST B.Sc in EEE: AUST
+Mobile: 01680329544
+E-mail: awatif.nadia@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Shabnam Wahed
+Photo URL: https://nub.ac.bd/assets/images/pims/sabnam%20wahed%20eee.jpg
+Designation: Lecturer(Study Leave)
+Department: Electrical and Electronic Engineering
+Research: An approach for letter recognition system modeling based on prominent features extracted from EEG signal.
+Publications: 1. Wahed, S ., Rana, M. M., Hasan, S. M. K., and Ahmad, M.(2016). “Toward Letter Recognition System: Determination of Best Wavelet and Best Rhythm using EEG,” 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016), MIST, Dhaka,Bangladesh, September 22-24, Accepted. 2. Hasan, S. M. K., Wahed, S. , Ahamed, M. A., and Ahmad, M. (2016). “Watershed-Matching Algorithm: A New Proposition for Brain Tumor Segmentation,” 3rd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2016), MIST, Dhaka, Bangladesh,September 22-24, Accepted. 3. Wahed, S ., Islam, M., and Ahmad, M. (2016). “Complex Hand Operation Recognition Method Using Salient Features of EEG,” 5th International Conference on Informatics, Electronics & Vision (ICIEV), Dhaka University, Dhaka, Bangladesh, May 13-14,,Accepted& Presented. 4. Wahed, S ., Islam, M., Biswas, P. C., Rana, M. M., Nath, D.,and Ahmad, M. (2015). “An Approach for Leer Recognition System Modeling based on Prominent Features of EEG,”Proc. of 1st International Conference on Electrical & Electronic Engineering (ICEEE 2015), RUET, Rajshahi, Bangladesh, November 4-6, pp. 5-8, doi: 10.1109/CEEE.2015.7428293. 5. Biswas, P. C., Wahed, S ., Nath, D., Rana, M. M., and Mohiuddin Ahmad, M. (2015). “Determination of Most Effective Rhythm, Domain & Stimulation Technique for Noninvasive Brain Computer Interface through SVM algorithm,” Proc. of 2nd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2015), Jahangirnagar University, Dhaka, Bangladesh, May 21-23, p. 6, doi:10.1109/ICEEICT.2015.7307368. 6. Rana, M. M., Islam, M., Nath, D., Wahed, S ., Biswas, P.C.,and Ahmad, M. (2015). “Inherent Features Extraction for Different Colors Stimulation of EEG Signal,” Proc. of 2nd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2015), Jahangirnagar University, Dhaka, Bangladesh, May 21-23, p. 6, doi:10.1109/ICEEICT.2015.7307392. 7. Nath, D., Uddin, M. B., Rana, M. M., Biswas, P. C., Wahed, S. , and Ahmad, M. (2015). “Number Recognition using Salient Features of Beta Rhythmic EEG Signal,” Proc. of 2nd International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT 2015), Jahangirnagar University, Dhaka, Bangladesh, May 21-23, p. 6,, doi:10.1109/ICEEICT.2015.7307364.
+Academic Awards, Fellowships and Research Grants: Primary Scholarship in 2002 Talent grade (First place in Nilphamari District) Junior Scholarship in 2005 Talent Grade (First place in Nilphamari District) Government Scholarship in SSC Examination 2008 Talent grade Government Scholarship in HSC Examination 2010 General grade Dean's Honor List (Level 4), Khulna University of Engineering & Technology (KUET)
+Training: 1. Satkhira Power Grid 132/33 KV Substation PGCB (One Working Day) 2. Bheramara HVDC Back to Back Substation, PGCB (One Working Day)
+
+--------------------------------------------------
+
+Name: Md. Shahrul Islam
+Photo URL: https://nub.ac.bd/assets/images/pims/shaharul%20EEE.jpg
+Designation: Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+
+--------------------------------------------------
+
+Name: Md. Tahmid Rashid
+Photo URL: https://nub.ac.bd/assets/images/pims/tahmid%20EEE.jpg
+Designation: Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Publications: 1.Mohammad Samin Yasar, Md Tahmid Rashid and Dr. Md. Khalilur Rhaman, “Digitization of the Entire Traffic System and Mitigation of the Ongoing Traffic Crisis Across Cities of Developing Nations,” IEEE TENCON 2015, Nov. 2015, Macau. 2. Md Tahmid Rashid and Mohammad Samin Yasar, “Implementation of Dynamic Traffic Light Controllers Using Artificial Neural Networks to Diminish Traffic Ordeals,” European Modelling Symposium 2015, Oct. 2015, Madrid. 3.Imtiaz Kalam Abir, Hamid Bin Zaman, Moontasir Hassan, Md Tahmid Rashid and Dr. Md. Khalilur Rhaman “Development and Feasibility Evaluation of a Low Cost Smart Voyage Data Recorder: Marine Black Box,” IEEE International Conference On Control System, Computing and Engineering (ICCSCE) 2015, Nov. 2015, Malaysia. 4. Md Tahmid Rashid , Pritom Chowdhury and Dr. Md. Khalilur Rhaman, “A voice guided surveillance robot with DTMF control and web based control” [IEEE Co-Sponsored] 18th International Conference on Computer and Information Technology (ICCIT) 2015, Dec. 2015, Dhaka. 5.Md. Shadman Sakib Chowdhury, Md Tahmid Rashid , Mehbas Fairuz Nawal and Dr. Md. Khalilur Rhaman, “Terminal analysis of the operations of a rescue robot constructed for assisting secondary disaster situations,” The IEEE Region-10 Humanitarian Technologies Conference for Disaster Prevention and Risk Reduction (IEEE-R10 HTC) 2015, Dec. 2015, Philippines. [Received “Best Paper Award”]. 6. Md Tahmid Rashid , Md. Shadman Sakib Chowdhury and Mehbas Fairuz Nawal, “Composite Indoor Localization and Positioning System Based on Wi-Fi Repeater Technology,” IEEE TENCON 2016, Nov. 2016, Singapore. (Accepted) 7. Md Tahmid Rashid , Imtiaz Kalam Abir, Niaz Sharif Shourove, Rakibun Muntaha and Dr. Md. Khalilur Rhaman, “Intelligent Intrusion Prevention System for Households Based on System-On-Chip Computer” IEEE Canadian Conference on Electrical and Computer Engineering (CCECE) 2016, Vancouver, Canada, May 2016. 8.Syed Mahmud Hasan, Md Tahmid Rashid , Md. Shadman Sakib Chowdhury and Dr. Md. Khalilur Rhaman, “Intelligent Intrusion Prevention System for Households Based on System-On-Chip Computer” IEEE Canadian Conference on Electrical and Computer Engineering (CCECE) 2016, Vancouver, Canada, May 2016.
+Academic Awards, Fellowships and Research Grants: 1.Graduated with “Highest Distinction” honor (summa cum laude) 2.Placed in the “Vice Chancellor’s List” for four times for scoring a GPA of 3.9 and above at the end of four semesters 3.Placed in the “Dean’s List” for four times for scoring a GPA of 3.7 and above at the end of four semesters 4.Awarded the “Vice Chancellor’s Choice” for showing good performance and conduct during residential semester at Savar Campus, BRAC University 5.Awarded “The Daily Star Award” in 2010 for achieving a result of 6 ‘A’ Grades in GCE O Level
+
+--------------------------------------------------
+
+Name: Mir Muntasir Hossain
+Photo URL: https://nub.ac.bd/assets/images/pims/Mir%20Muntaser%20EEE.jpg
+Designation: Senior Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc. in Electrical and Electronic Engineering, AUST; B.Sc. in Electrical and Electronic Engineering, AUST
+Research: Research Interests: Low Power Digital and Analog/RF/Mixed Signal VLSI Circuit Design Semiconductor Materials and Devices Emerging Technologies: Spintronics, FeFET, MRAM, RRAM and Memristors Smart-grid
+Publications: 1. M. M. Hossain and S. N. Biswas, "Analysis and Design of a 32nm FinFET Dynamic Latch Comparator," 2019 5th International Conference on Advances in Electrical Engineering (ICAEE), Dhaka, Bangladesh, 2019, pp. 49-54. DOI: 10.1109/ICAEE48663.2019.8975615 2. M. M. Hossain and S. N. Biswas, "A High Speed and Low Power 32nm FinFET Dynamic Latch Comparator Design," 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-4. DOI: 10.1109/ICASERT.2019.8934511 3. M. M. Hossain , K. R. Zafreen, T. Aziz and M. S. F. Kader, "An Optimization Framework to Implement Demand Side Management in Hybrid Buildings," 2018 International Conference on Innovations in Science, Engineering and Technology (ICISET), Chittagong, Bangladesh, 2018, pp. 126-131. DOI: 10.1109/ICISET.2018.8745657 4. M. A. Zamee, M. M. Hossain , K. R. Zafreen and K. K. Islam, "Automatic Generation Control of Two Area Reheat Thermal Power System Using Differential Evolution Based Controller," 2018 International Conference on Innovations in Science, Engineering and Technology (ICISET), Chittagong, Bangladesh, 2018, pp. 174-179. DOI: 10.1109/ICISET.2018.8745639 5. M. M. Hossain , K. R. Zafreen, T. Aziz and M. A. Zamee, "A Price Based Demand Side Management Strategy for Residential Sector in Bangladesh," 2018 4th International Conference on Electrical Engineering and Information & Communication Technology (iCEEiCT), Dhaka, Bangladesh, 2018, pp. 401-405. DOI: 10.1109/CEEICT.2018.8628154 6. M. M. Hossain , K. R. Zafreen, A. Rahman, M. A. Zamee and T. Aziz, "An Effective Algorithm for Demand Side Management in Smart grid for Residential Load," 2017 4th International Conference on Advances in Electrical Engineering (ICAEE), Dhaka, 2017, pp. 336-340. DOI: 10.1109/ICAEE.2017.8255377 7. M. S. F. Kader, S. Tasnim, M. M. Hossain and S. I. Ahmed, "A better blueprint using evolutionary game theory for retransmission of self-organized data aggregation techniques," 2017 4th International Conference on Advances in Electrical Engineering (ICAEE), Dhaka, 2017, pp. 187-192. DOI: 10.1109/ICAEE.2017.8255351 8. M. S. F. Kader, M. M. Hossain , S. Ghose and K. R. Zafreen, "Selection of better strategy for Self Organized Data Aggregation Techniques using Evolutionary Game Theory," 2016 International Conference on Innovations in Science, Engineering and Technology (ICISET), Dhaka, 2016, pp. 1-4. DOI: 10.1109/ICISET.2016.7856501 9. M. A. Zamee, M. M. Hossain , A. Ahmed and K. K. Islam, "Automatic generation control in a multi-area conventional and renewable energy based power system using differential evolution algorithm," 2016 5th International Conference on Informatics, Electronics and Vision (ICIEV), Dhaka, 2016, pp. 262-267. DOI: 10.1109/ICIEV.2016.7760007 10. A. H. Khan, K. R. Zafreen, M. M. Hossain and M. Islam, "A review of current renewable energy activities in Bangladesh," 2015 3rd International Conference on Green Energy and Technology (ICGET), Dhaka, 2015, pp. 1-5. DOI: 10.1109/ICGET.2015.7315097
+Membership: IEEE [Graduate Student Member # 95686442]
+E-mail: muntasir.hossain@nub.ac.bd ; mirmuntasir@ieee.org
+
+--------------------------------------------------
+
+Name: Ms. Nusrat Tazin
+Photo URL: https://nub.ac.bd/assets/images/pims/nusrat.jpg
+Designation: Senior Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Research: Final year project on “Producing a regenerative repeater and PSK modulator”, as a fulfillment of Digital Communication Lab, 2010. Final year project on “Designing a photo detector” as a fulfillment of Opto-Electronics course, 2010. Third year project on “Traffic signal control by using microcontroller” as a fulfillment of Microprocessor lab course, 2009. Third year project on “Designing the electrical wiring of a flat” as a fulfillment of Electrical Service Design course, 2009.
+Publications: 1. NusratTazin , M. Rubaiyat H. Mondal “Optimal Biased Spatial OFDM for Peak Power Limited Optical Wireless Channels” (Accepted to 10th International Conference on Signal Processing and Communication Systems, 19-21 Dec 2016, Gold Coast, Australia). 2. NusratTazin , ShahedAnzarusSabab “Diagnosis of Chronic Kidney Disease using Effective Classification and Feature Selection Technique” (Accepted to International Conference on Medical Engineering, Health informatics and Technology-MediTech, 17-18 Dec 2016, United International University, Bangladesh). 3. N. Tazin , A.S.M.S. Arefin, A.Arefin, M.S. Alam, “Transmission Gate Adder in 0.18 μm CMOS Technology”,(Submitted to NUB Journal of Applied Science, Issue 1, Vol 2. ) 4. N. Tazin , A.S.M.S. Arefin, A.Arefin, M.S. Alam, “Proper Reasoning of Migration towards 4G with Comparative Analysis”, (Submitted to NUB Journal of Applied Science, Issue 1, Vol 2.) 5. NusratTazin , AshrafulArefin, Kazi Md. Shahiduzzaman, “Analysis of a SIMO transceiver system for Rayleigh fading environment with maximal ratio combining”, International Journal of Research in Computer andCommunication Technology, Vol. 4, Issue 1, January 2015. 6. Kazi Md. Shahiduzzaman , Khan Mamun Reza , NusratTazin , “Combined Local Global Optical Flow Approach in Bio-medical Image Sequences for blood flow detection”. International Journal of Advanced Research in Computer and Communication Engineering Vol. 4, Issue 2, February 2015. 7. Md. ShamsulArefin, NusratTazin , Munsury Rahman, TajrianMollick. “Performance evaluation of a SCM Optical Transmission System”, IOSR journal of Engineering, Vol. 3, Issue-4, April 2013, Version-2, ISSN-2250-3021. 8. AshrafulArefin, NusratTazin , ASM ShamsulArefin and ShahanaAkter, “Influence of Temperature on SteadyState Performance of VCSEL”, International Journal of Scientific Engineering & Applied Sciences, July 2015,ISSN: 2395-3470, vol. 1, issue 4
+Training: Cellular mobile phone technology 27th Nov - 26th Dec, 2009 Pacific Bangladesh Telecom Ltd. The training was conducted by the mobile service provider Citycell, Huawei Technologies Company Ltd. Subjects focused, CDMA Cellular technology, Network planning, Core Network Operation and Maintenance, Field Operation and Maintenance (RF and BTS), Intelligent Network, MSC, HLR, Network Operations Center (NOC). Page 3 of 3 GSM fundamental & wireless mobile network 2nd Feb - 4th Feb, 2011 Huawei Training Center, Dhaka, Bangladesh Training was provided onCellular Mobile Network, Components in GSM Network, Standard Telecom Network Interface, GSM Network Protocols & Applications, Air Interface & Radio Technologies, BTS Hardware in GSM Network, Service Area & Numbering Plan.
+
+--------------------------------------------------
+
+Name: Md. Azizul Islam
+Photo URL: https://nub.ac.bd/assets/images/pims/Azizul.jpg
+Designation: Senior Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Research: My project is entitled “Determination of crystal field splitting energy (Δ0) and Racah parameters (B) of some ligands in Cobalt (III) complexes” In this study, I examined the interaction of Co (III) ion with different ligands and an attempt was taken to calculate the crystal field splitting energy, Δ0 and Racah parameters (B) for every complex from the UV-visible spectral data and their corresponding Tanabe-Sugano diagram. My thesis is entitled “Investigation on mixed ligand complexes of metal theophylline (metal = Cu(II), Ni(II), Zn(II), Co(II) and Hg(II)) with ethylenediamine”. The goal of this work was to synthesize, characterize and determine the most probable structure of prepared ternary complexes from the result of various studies. Most important concern of my research was to know the coordinating behaviors of theophylline with transition metal ions, since metal-theophylline complexes have known significant antitumor activity. I had studied on theophylline as well as its compounds. Some characterization techniques were used to characterize the prepared compounds, like UV-visible spectro photometry, TGA, DSC, FT-IR, HPLC, NMR etc.
+Publications: 1) K. Khanam; Most. Murshida Begum; Md. Azizul Islam; Ronok Zahan; Md. Ekramul Haque; Studies on Antioxidant, Analgesic, Anti-inflammatory and CNS Depressant Activities of tne plant Cleome Viscosa Linn.  International Journal of Innovative Pharmaceutical Science and Research, 3 (1), 2015, 12-18 2) Most. Murshida Begum; Md. Azizul Islam ; Afroza Akter; Tamanna Yasmin; Md. Osman Faruque;Studies of Hypertensive Patient’s of Bangladesh-A survey study. International Journal of Innovative Pharmaceutical Science and Research, 3 (1), 2015, 40-48
+Academic Awards, Fellowships and Research Grants: 2005-2006 (Second Year) District Merit Scholarship Jhenidah
+Membership: Member, Ekushey Debating Club (EDC) (2005-2006)
+
+--------------------------------------------------
+
+Name: Mr. Kamal Hossain
+Photo URL: https://nub.ac.bd/assets/images/pims/Kamal%20Hasan%20EEE.jpg
+Designation: Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+
+--------------------------------------------------
+
+Name: Anika Fariha Rashid
+Photo URL: https://nub.ac.bd/assets/images/pims/11.%20Anika%20Fariha%20Rashid.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: MS in Energy Technology: University of Dhaka B.Sc. in EEE: American International University-Bangladesh
+Mobile: 01715434558
+E-mail: anika.rashid@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Julker Neyen Sampad
+Photo URL: https://nub.ac.bd/assets/images/pims/Julker%20Neyen%20Sampad%20EEE.jpg
+Designation: Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc: BUET B.Sc: BUET
+
+--------------------------------------------------
+
+Name: Nazmul Hassan
+Photo URL: https://nub.ac.bd/assets/images/pims/Nazmul%20Hassan.jpg
+Designation: Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE: BUET
+
+--------------------------------------------------
+
+Name: Pronay Dey
+Photo URL: https://nub.ac.bd/assets/images/pims/Pronay.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc in EEE: AUST
+Mobile: 01880689436
+E-mail: pronay.96dey@gmail.com
+
+--------------------------------------------------
+
+Name: Dr. Md. Abdul Matin
+Photo URL: https://nub.ac.bd/assets/images/pims/73.%20Abdul%20Matin.jpg
+Designation: Adjunct Faculty
+Department: Electrical and Electronic Engineering
+
+--------------------------------------------------
+
+Name: Md. Sharifuzzman Shakil
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Sharifuzzman%20Shakil.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc in EEE : KUET
+Mobile: 01769046680
+E-mail: sharifshakil09@gmail.com
+
+--------------------------------------------------
+
+Name: Md. Minhaz Uddin
+Photo URL: https://nub.ac.bd/assets/images/untitled%20folder%204/CSE%20NEW%20Member/NUB1232038_Md%20Minhaz%20Uddin_Lecturer.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc in EEE : AUST
+Mobile: 01629549030
+E-mail: mdminhazuddin.eee@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Shihab Uddin
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Shihab%20Uddin.jpeg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M. Sc.- Pondicherry University, Pondicherry, India B.Sc.- UIU
+Mobile: 01673639931
+E-mail: msu.uiu.eee@gmail.com
+
+--------------------------------------------------
+
+Name: Sharif Uddin
+Photo URL: https://nub.ac.bd/assets/images/pims/Sharif.jpg
+Designation: Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Academic Qualification: Master’s Program ongoing at Washington State University, USA M. Sc.- MIST B.Sc.- RUET
+Mobile: 01955175650
+E-mail: sharif.uddin@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Moutushi Saha
+Photo URL: https://nub.ac.bd/assets/images/pims/Moutushi%20Saha.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc.- MIST
+Mobile: 01884365367
+E-mail: moutushi.saha@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Jakobin Alam Khan
+Photo URL: https://nub.ac.bd/assets/images/pims/Jakobin%20Alam%20Khan.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc in Mathematics: DU B.Sc in Mathematics : DU
+Mobile: 01312894002
+E-mail: jakobin@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Tanzid Mia
+Photo URL: https://nub.ac.bd/assets/images/untitled%20folder%204/CSE%20NEW%20Member/NUB7232101_Md.%20Tanzid%20Mia_Lecturer.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE: KUET
+Mobile: 01533836342
+E-mail: mdtanzid047.eee@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Shovon Rahman
+Photo URL: https://nub.ac.bd/assets/images/pims/SR.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc in EEE : BUET, ongoing B.Sc in EECE: MIST
+Mobile: 01850802849
+E-mail: shovonrahman600@gmail.com
+
+--------------------------------------------------
+
+Name: Rahat Faruk
+Photo URL: https://nub.ac.bd/assets/images/pims/RahatEEE.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc in EEE: KUET
+Mobile: 01749305566
+E-mail: rfaruk.eee@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Samina Afrin Moon
+Photo URL: https://nub.ac.bd/assets/images/pims/Samina%20Afrin%20Moon.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc in Physics: MBSTU B.Sc in Physics: MBSTU
+Mobile: 01631929953
+E-mail: saminaafrin@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Polash Chandro
+Photo URL: https://nub.ac.bd/assets/images/untitled%20folder%204/CSE%20NEW%20Member/10232139_Polash_Chandro_Lecturer.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc. : Ongoing, RUET B.Sc in EEE : BAUST
+Mobile: 01730898625
+E-mail: polashr85@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Sayemul Islam
+Photo URL: https://nub.ac.bd/assets/images/pims/Sayemul%20Islam.jpg
+Designation: Lecturer (Study Leave)
+Department: Electrical and Electronic Engineering
+Academic Qualification: PhD program ongoing at Florida International University, USA, B.Sc in EEE : KUET
+Mobile: 01912356427
+E-mail: sayemul.eee.kuet@gmail.com
+
+--------------------------------------------------
+
+Name: Md. Al Amin
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Al%20Amin.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc in Mathematics: RU B.Sc. in Mathematics : RU
+Mobile: 01750262668
+E-mail: alamin23math@gmail.com
+
+--------------------------------------------------
+
+Name: Zahidul Salman
+Photo URL: https://nub.ac.bd/assets/images/pims/Zahidul%20Salman.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M. Sc. in EEE : Ongoing, DU B.Sc. in EEE : SUST
+Mobile: 01831032224
+E-mail: zahidul.salman055@gmail.com
+
+--------------------------------------------------
+
+Name: Bithi Mitra
+Photo URL: https://nub.ac.bd/assets/images/pims/Bithi%20Mitra.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc : KUET B.Sc : KUET
+Mobile: 01879495420
+E-mail: bithimnubtk21@gmail.com
+
+--------------------------------------------------
+
+Name: Md. Nazmul Islam
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Nazmul%20Islam.PNG
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M. Sc.: ongoing, CUET B.Sc. :CUET
+Mobile: 01998378005
+E-mail: nazmul.islam@nub.ac.bd, nazmul.islam.eee.nub@gmail.com
+
+--------------------------------------------------
+
+Name: Fatema Alam Meem
+Photo URL: https://nub.ac.bd/assets/images/pims/Fatema%20Alam%20Meem.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc.in EEE: RUET
+Mobile: 01316763917
+E-mail: fatema.meem@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Iffat Nowshin
+Photo URL: https://nub.ac.bd/assets/images/pims/Iffat%20Nowshin.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE: IUT
+Mobile: 01312086301
+E-mail: iffat.nowshin@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Aridra Chandra Jhalok
+Photo URL: https://nub.ac.bd/assets/images/pims/Aridra%20Chandra%20Jhalok.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc.in EEE: RUET
+Mobile: 01638341308
+E-mail: aridra.jhalok@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Mehrab Faisal
+Photo URL: https://nub.ac.bd/assets/images/pims/Mehrab%20Faisal.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc.: Ongoing, BUET B.Sc.in EEE : KUET
+Mobile: 01304450132
+E-mail: mehrab.faisal@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Abdullah Al Noman Sium
+Photo URL: https://nub.ac.bd/assets/images/pims/Abdullah%20Al%20Noman%20Sium.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE: JUST
+Mobile: 01636764363
+E-mail: abdullah.sium@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Yeasmin Jahan Rima
+Photo URL: https://nub.ac.bd/assets/images/pims/Yeasmin%20Jahan%20Rima.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc.in EEE: BUET
+Mobile: 01733765201
+E-mail: yeasmin.rima@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Atiqur Rahman
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Atiqur%20Rahman.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc. in Mathematics: RU B.Sc. in Mathematics: RU
+Mobile: 01725637811
+E-mail: atiqur.rahman@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Mst. Nuzhat Tabassum
+Photo URL: https://nub.ac.bd/assets/images/pims/Mst.%20Nuzhat%20Tabassum.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc. in Chemistry: JU, B.Sc. in Chemistry :JU
+Mobile: 01858161640
+E-mail: nuzhat.tabassum@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Fowzia Hossain
+Photo URL: https://nub.ac.bd/assets/images/pims/Fowzia%20Hossain.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE :CUET
+Mobile: 01761046161
+E-mail: fowzia.hossain.eee@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Airin Akter Tania
+Photo URL: https://nub.ac.bd/assets/images/pims/Airin%20Akter%20Tania.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE : KUET
+Mobile: 01516060292
+E-mail: airin.tania@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Anik Hasan
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Anik%20Hasan.png
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE :  RUET
+Mobile: 01766474042
+E-mail: anik.hasan@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Mahdi Ul Islam
+Photo URL: https://nub.ac.bd/assets/images/pims/Mahdi%20Ul%20Islam.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE : KUET
+Mobile: 01643492496
+E-mail: mahdi.islam@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Majed
+Photo URL: https://nub.ac.bd/assets/images/pims/Majed.jpeg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc. in EEE : KUET
+Mobile: 01714069113
+E-mail: majed@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md Mushfiqur Ahmed
+Photo URL: https://nub.ac.bd/assets/images/pims/Md%20Mushfiqur%20Ahmed.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc. in EEE: ongoing, AUST B.Sc. in EEE : IUT
+Mobile: 01777505441
+E-mail: mushfiqur.ahmed@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Nabiha Jahan Khan
+Photo URL: https://nub.ac.bd/assets/images/pims/Nabiha%20Jahan%20Khan.png
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc EEE: KUET
+Mobile: 01910502622
+E-mail: jahankhan@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Taufik Omar Shuvo
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Taufik%20Omar%20Shuvo.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc in EEE: KUET
+Mobile: 01784934215
+E-mail: omarshuvo@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md.saim Aktar Himel
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Saim%20Aktar%20Himel.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc in EEE: RUET
+Mobile: 01706108650
+E-mail: aktarhimel@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Tabassom Rahman Aishy
+Photo URL: https://nub.ac.bd/assets/images/pims/Tabassom%20Rahman%20Aishy.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc in EEE: Ongoing, KUET B.Sc in EEE: KUET
+Mobile: 01766246201
+E-mail: tabassom.aishy@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Rabbiul Hasan Ankon
+Photo URL: https://nub.ac.bd/assets/images/pims/Rabbiul%20Hasan%20Ankon.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: M.Sc in EEE: Ongoing, KUET B.Sc in EEE: KUET
+Mobile: 01703225662
+E-mail: ankon@nub.ac.bd
+
+--------------------------------------------------
+
+Name: Md. Liton Ali
+Photo URL: https://nub.ac.bd/assets/images/pims/Md.%20Liton%20Ali.jpg
+Designation: Lecturer
+Department: Electrical and Electronic Engineering
+Academic Qualification: B.Sc in EEE: BUET
+Mobile: 01750662086
+E-mail: litonali@nub.ac.bd
+
+--------------------------------------------------
+
