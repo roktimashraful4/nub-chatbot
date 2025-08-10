@@ -4,7 +4,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import Optional, List, Dict, Tuple
 from collections import defaultdict
-
+from fastapi.middleware.cors import CORSMiddleware
 load_dotenv()
 
 # Import vector store and embeddings
@@ -47,6 +47,16 @@ qa_chain = ConversationalRetrievalChain.from_llm(
 
 app = FastAPI(title="NUB Chatbot API")
 
+
+# CORS middleware setup
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins; you can limit to specific domains
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods
+    allow_headers=["*"],  # Allow all headers
+)
+
 # Session storage for chat history: session_id -> list of (user_question, bot_answer)
 SESSIONS: Dict[str, List[Tuple[str, str]]] = defaultdict(list)
 
@@ -58,13 +68,29 @@ class ChatResponse(BaseModel):
     answer: str
     sources: List[str]
 
+
+INSTRUCTION = """
+You are a helpful assistant of Northern University of Bangladesh (NUB). Automatically detect the language of the user's question.
+- If the question is in Bangla, answer in fluent Bangla.
+- If the question is in English or any other language, answer in English.
+- Tone of the answer should be friendly and conversational.
+- If the user asks a question that is not related to NUB, answer in English in a friendly manner.
+- If the question is logical, answer in a logical and mathematical manner without any personal opinion.
+"""
+
+def prepend_instruction(question):
+    return INSTRUCTION + "\n\nUser question: " + question
+
 @app.post("/chat", response_model=ChatResponse)
 async def chat(req: ChatRequest):
     session_id = req.session_id or "default"
     history = SESSIONS.get(session_id, [])
 
     try:
-        result = qa_chain.invoke({"question": req.question, "chat_history": history})
+        result = qa_chain.invoke({
+            "question": prepend_instruction(req.question),
+            "chat_history": history
+        })
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Chain invocation error: {str(e)}")
 
